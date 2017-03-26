@@ -1,0 +1,4 @@
+E:\Code\songjiangLampApp\KLJCServer\KLJCServer\bin\Debug\KLJCServer.exe.config
+E:\Code\songjiangLampApp\KLJCServer\KLJCServer\obj\Debug\KLJCServer.csprojResolveAssemblyReference.cache
+E:\Code\songjiangLampApp\KLJCServer\KLJCServer\obj\Debug\KLJCServer.ProjectInstaller.resources
+E:\Code\songjiangLampApp\KLJCServer\KLJCServer\obj\Debug\KLJCServer.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+E:\Code\Distributor-PuDong\VirtualTerminal\VirtualTerminal\bin\Debug\VirtualTerminal.pdb
+E:\Code\Distributor-PuDong\VirtualTerminal\VirtualTerminal\obj\Debug\VirtualTerminal.csprojResolveAssemblyReference.cache
+E:\Code\Distributor-PuDong\VirtualTerminal\VirtualTerminal\obj\Debug\VirtualTerminal.pdb
+E:\Code\Distributor-PuDong\VirtualTerminal\VirtualTerminal\bin\Debug\VirtualTerminal.exe.config
+E:\Code\Distributor-PuDong\VirtualTerminal\VirtualTerminal\bin\Debug\VirtualTerminal.exe
+E:\Code\Distributor-PuDong\VirtualTerminal\VirtualTerminal\obj\Debug\VirtualTerminal.exe
+E:\Code\Distributor-PuDong\VirtualTerminal\VirtualTerminal\bin\Debug\Communication_Core.dll
+E:\Code\Distributor-PuDong\VirtualTerminal\VirtualTerminal\bin\Debug\System.Database.dll
+E:\Code\Distributor-PuDong\VirtualTerminal\VirtualTerminal\bin\Debug\Communication_Core.pdb
+E:\Code\Distributor-PuDong\VirtualTerminal\VirtualTerminal\bin\Debug\System.Database.xml

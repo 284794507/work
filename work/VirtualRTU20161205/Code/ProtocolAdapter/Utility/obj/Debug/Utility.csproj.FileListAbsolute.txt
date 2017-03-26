@@ -1,0 +1,6 @@
+E:\Code\VirtualRTU20161205\Code\ProtocolAdapter\Utility\bin\Debug\Utility.dll
+E:\Code\VirtualRTU20161205\Code\ProtocolAdapter\Utility\bin\Debug\Utility.pdb
+E:\Code\VirtualRTU20161205\Code\ProtocolAdapter\Utility\bin\Debug\Newtonsoft.Json.dll
+E:\Code\VirtualRTU20161205\Code\ProtocolAdapter\Utility\obj\Debug\Utility.dll
+E:\Code\VirtualRTU20161205\Code\ProtocolAdapter\Utility\obj\Debug\Utility.pdb
+E:\Code\VirtualRTU20161205\Code\ProtocolAdapter\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache

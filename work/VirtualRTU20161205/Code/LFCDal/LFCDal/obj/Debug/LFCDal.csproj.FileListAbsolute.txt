@@ -1,0 +1,11 @@
+E:\Code\VirtualRTU20161205\Code\LFCDal\LFCDal\bin\Debug\LFCDal.exe.config
+E:\Code\VirtualRTU20161205\Code\LFCDal\LFCDal\bin\Debug\LFCDal.exe
+E:\Code\VirtualRTU20161205\Code\LFCDal\LFCDal\bin\Debug\LFCDal.pdb
+E:\Code\VirtualRTU20161205\Code\LFCDal\LFCDal\bin\Debug\Dapper.dll
+E:\Code\VirtualRTU20161205\Code\LFCDal\LFCDal\bin\Debug\System.Data.SQLite.dll
+E:\Code\VirtualRTU20161205\Code\LFCDal\LFCDal\bin\Debug\Dapper.xml
+E:\Code\VirtualRTU20161205\Code\LFCDal\LFCDal\bin\Debug\System.Data.SQLite.xml
+E:\Code\VirtualRTU20161205\Code\LFCDal\LFCDal\obj\Debug\LFCDal.ProjectInstaller.resources
+E:\Code\VirtualRTU20161205\Code\LFCDal\LFCDal\obj\Debug\LFCDal.csproj.GenerateResource.Cache
+E:\Code\VirtualRTU20161205\Code\LFCDal\LFCDal\obj\Debug\LFCDal.exe
+E:\Code\VirtualRTU20161205\Code\LFCDal\LFCDal\obj\Debug\LFCDal.pdb

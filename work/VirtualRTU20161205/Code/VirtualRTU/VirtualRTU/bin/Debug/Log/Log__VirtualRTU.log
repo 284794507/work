@@ -1,0 +1,28 @@
+﻿2017-02-10 15:16:44,543 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 Initializing......
+2017-02-10 15:16:45,260 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 SendData：68 1A 00 01 90 68 81 00 AA BB CC DD EE FF 03 80 04 60 01 86 01 36 95 57 03 55 45 70 55 19 00 97 32 16
+2017-02-10 15:16:45,261 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 Connected to RTUSvr!
+2017-02-10 15:16:45,262 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 Successed to initialize!
+2017-02-10 15:16:45,266 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 AnalyzeProtocol_RTUSvr：接收正确的报文
+命令字：01-00
+68 03 00 01 90 68 01 00 00 FD 16
+2017-02-10 15:16:45,271 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 HandlerLoginBackPackage：登录成功！
+2017-02-10 15:16:45,286 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 Connet：接入服务连接成功！
+2017-02-10 15:16:48,260 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 AnalyzeProtocol_RTUSvr：接收正确的报文
+命令字：08-01
+68 02 00 01 90 68 08 01 04 16
+2017-02-10 15:16:48,262 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 SendData：68 09 00 01 90 68 88 01 48 16 15 10 02 17 20 47 16
+2017-02-10 16:46:43,682 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 Initializing......
+2017-02-10 16:46:44,413 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 SendData：68 1A 00 01 90 68 81 00 AA BB CC DD EE FF 03 80 04 60 01 86 01 36 95 57 03 55 45 70 55 19 00 97 32 16
+2017-02-10 16:46:44,414 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 Connected to RTUSvr!
+2017-02-10 16:46:44,415 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 Successed to initialize!
+2017-02-10 16:46:44,416 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 AnalyzeProtocol_RTUSvr：接收正确的报文
+命令字：01-00
+68 03 00 01 90 68 01 00 00 FD 16
+2017-02-10 16:46:44,419 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 HandlerLoginBackPackage：登录成功！
+2017-02-10 16:46:44,432 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 Connet：接入服务连接成功！
+2017-02-10 16:46:47,412 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 AnalyzeProtocol_RTUSvr：接收正确的报文
+命令字：08-01
+68 02 00 01 90 68 08 01 04 16
+2017-02-10 16:46:47,414 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 SendData：68 09 00 01 90 68 88 01 47 46 16 10 02 17 20 77 16
+2017-02-13 10:05:15,342 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 Initializing......
+2017-02-15 10:24:28,571 [INFO] VirtualRTU.Program:ShowLog::E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\Program.cs:67:17 Initializing......

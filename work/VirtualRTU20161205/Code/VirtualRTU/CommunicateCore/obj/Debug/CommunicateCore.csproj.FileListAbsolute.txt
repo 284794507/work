@@ -1,0 +1,6 @@
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\CommunicateCore\bin\Debug\CommunicateCore.dll
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\CommunicateCore\bin\Debug\CommunicateCore.pdb
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\CommunicateCore\bin\Debug\Newtonsoft.Json.dll
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\CommunicateCore\obj\Debug\CommunicateCore.dll
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\CommunicateCore\obj\Debug\CommunicateCore.pdb
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\CommunicateCore\obj\Debug\CommunicateCore.csprojResolveAssemblyReference.cache

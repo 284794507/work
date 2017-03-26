@@ -1,0 +1,13 @@
+E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\bin\Debug\PassengerFlowDal.exe.config
+E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\bin\Debug\PassengerFlowDal.exe
+E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\bin\Debug\PassengerFlowDal.pdb
+E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\bin\Debug\Dapper.dll
+E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\bin\Debug\Newtonsoft.Json.dll
+E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\bin\Debug\System.Database.dll
+E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\bin\Debug\Dapper.xml
+E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\bin\Debug\System.Database.xml
+E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\obj\Debug\PassengerFlowDal.ProjectInstaller.resources
+E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\obj\Debug\PassengerFlowDal.csproj.GenerateResource.Cache
+E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\obj\Debug\PassengerFlowDal.exe
+E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\obj\Debug\PassengerFlowDal.pdb
+E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\obj\Debug\PassengerFlowDal.PassengerFlowDalService.resources

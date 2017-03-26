@@ -1,0 +1,648 @@
+﻿2017-03-15 11:54:38,576 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:54:39,584 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 99
+2017-03-15 11:54:39,585 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:54:39,585 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 57 00 47 59 32 32 52 42 12 43 86 FB 03 02 0F F6 0B A8 C2 81 73 D4 C1 10 06 1C 7A 39 E8 05 02 0F F6 0B A9 78 02 F8 65 A7 E2 AC 49 85 39 CC 06 02 0F F6 0B AA 38 BC 1A 9F 0D 66 A4 50 8C 39 93 05 02 0F F6 0B A4 D8 9A 34 0E 77 F2 9A 56 99 39 93 06 02 0F F6 0B AE DC 37 14 7B 57 1C 2E 18 9B 39 ED 04 22 D4 16
+2017-03-15 11:54:39,586 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:54:40,674 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 99
+2017-03-15 11:54:40,674 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:54:40,675 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 57 00 47 59 32 32 52 42 12 43 86 88 02 02 0F F6 06 A7 3C A3 48 58 EA E2 B4 57 D7 07 E6 06 02 0F F6 06 A5 3C A3 48 58 EA E2 82 F4 D8 07 50 07 02 0F F6 06 AA A4 44 D1 E6 4A 57 96 13 DC 07 81 06 02 0F F6 06 AB A4 44 D1 E6 4A 57 06 2E DC 07 0D 06 02 0F F6 06 AA A4 44 D1 E6 4A 57 44 CC DE 07 EA 06 66 6A 16
+2017-03-15 11:54:40,676 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:54:42,874 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 99
+2017-03-15 11:54:42,874 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:54:42,875 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 57 00 47 59 32 32 52 42 12 43 86 FC 03 02 0F F6 0B A2 B0 89 00 2B 40 96 86 F0 AF 39 4A 06 02 0F F6 0B A5 C4 85 08 58 22 AD 0E 0D BD 39 3E 05 02 0F F6 0B B0 38 71 DE 37 83 CF 18 28 C2 39 0B 06 02 0F F6 0B B5 EA 11 17 10 D8 68 42 74 C7 39 DD 05 02 0F F6 0B A2 A4 44 D1 D0 B6 93 EA 1E CF 39 94 07 33 11 16
+2017-03-15 11:54:42,876 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:54:43,883 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 82
+2017-03-15 11:54:43,884 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:54:43,885 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 46 00 47 59 32 32 52 42 12 43 86 89 02 02 0F F6 06 AE EA 11 17 10 D8 68 0E 72 F6 07 98 05 02 0F F6 06 AB EA 11 17 10 D8 68 66 B9 F6 07 34 06 02 0F F6 06 A3 E0 DD C0 8E CA 5C CC D4 05 08 8C 07 02 0F F6 06 A3 E0 DD C0 8E CA 5C F0 2B 06 08 08 07 E3 8A 16
+2017-03-15 11:54:43,886 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:54:45,523 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 82
+2017-03-15 11:54:45,524 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:54:45,524 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 46 00 47 59 32 32 52 42 12 43 86 FD 03 02 0F F6 0B B9 AA 00 00 4E 11 D9 0A FB DE 39 C7 05 02 0F F6 0B A9 74 AC 5F 70 E8 25 94 68 EA 39 D4 06 02 0F F6 0B A6 C8 A8 23 BD 7B 68 DE E6 F1 39 D7 07 02 0F F6 0B C7 30 F7 72 40 C3 6F DA 95 F2 39 7C 07 6D E3 16
+2017-03-15 11:54:45,525 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:54:46,533 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:54:46,535 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:54:46,535 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 8A 02 02 0F F6 06 AA 3C A3 48 58 EA E2 78 1E 31 08 CF 05 57 D4 16
+2017-03-15 11:54:46,536 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:54:48,503 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:54:48,504 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:54:48,504 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 FE 03 02 0F F6 0B B0 CC 3A 61 C6 AC B0 96 F9 1A 3A 2C 07 92 65 16
+2017-03-15 11:54:48,505 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:54:49,513 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:54:49,559 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:54:49,560 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:54:49,563 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:54:49,564 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:54:49,567 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:54:49,568 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:54:49,572 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:54:49,572 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:54:49,575 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:54:49,576 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:54:49,579 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:54:49,579 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:54:49,584 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:54:49,585 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:54:49,588 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:54:49,589 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:54:49,593 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:54:49,594 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:54:49,598 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:54:49,599 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:54:49,602 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:54:49,602 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:54:49,606 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:54:49,606 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:54:49,609 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:54:50,524 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:54:50,529 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:54:50,529 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:54:50,530 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:54:50,530 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 FF 03 02 0F F6 0B C1 94 39 E5 0A 06 65 84 98 2A 3A 78 05 7F 3A 16
+2017-03-15 11:54:50,530 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:54:53,534 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 65
+2017-03-15 11:54:53,535 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:54:53,535 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 35 00 47 59 32 32 52 42 12 43 86 8C 02 02 0F F6 06 A1 CC 29 F5 84 88 2C 2E 66 93 08 FD 05 02 0F F6 06 A9 D4 61 2E 36 8E 3B 10 4D 9D 08 18 05 02 0F F6 06 A2 D4 61 2E 36 8E 3B 96 C6 9D 08 10 06 40 19 16
+2017-03-15 11:54:53,536 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:54:56,365 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 65
+2017-03-15 11:54:56,366 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:54:56,366 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 35 00 47 59 32 32 52 42 12 43 86 8D 02 02 0F F6 06 A5 6C 5C 14 15 EA 28 82 08 C7 08 0C 05 02 0F F6 06 A5 6C 5C 14 15 EA 28 FC 54 C7 08 D2 05 02 0F F6 06 A3 6C 5C 14 15 EA 28 FC 9C C7 08 18 06 4B 32 16
+2017-03-15 11:54:56,366 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:54:57,374 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 116
+2017-03-15 11:54:57,374 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:54:57,375 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 68 00 47 59 32 32 52 42 12 43 86 00 03 02 0F F6 0B A5 D4 61 2E 36 8E 3B 88 27 5B 3A 5B 05 02 0F F6 0B AE C6 65 BF 90 6B CA BE F7 5D 3A B9 07 02 0F F6 0B BD FC 3F 7C 3E 4B F5 9A FC 6A 3A 3C 07 02 0F F6 0B C2 F8 A4 5F 8F FD 4E 12 9A 76 3A 03 07 02 0F F6 0B C0 E4 58 B8 B2 64 67 02 EF 79 3A E5 06 02 0F F6 0B A3 6C 5C 14 15 EA 28 C4 16 87 3A 51 05 0D FF 16
+2017-03-15 11:54:57,376 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:54:58,384 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:54:58,385 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:54:58,385 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 8E 02 02 0F F6 06 A6 6C 5C 14 15 EA 28 56 69 E0 08 5B 05 21 67 16
+2017-03-15 11:54:58,386 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:54:59,395 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 48
+2017-03-15 11:54:59,396 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:54:59,396 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 24 00 47 59 32 32 52 42 12 43 86 01 03 02 0F F6 0B A8 00 E0 4D 00 5C 2E C6 9B 9F 3A A9 05 02 0F F6 0B A6 E0 DD C0 8E CA 5C 62 1E A2 3A 43 07 01 23 16
+2017-03-15 11:54:59,397 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:00,404 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:55:00,404 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:00,405 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 02 03 02 0F F6 0B A6 30 3A 64 B7 98 23 5C 63 B4 3A A3 05 C3 65 16
+2017-03-15 11:55:00,405 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:02,354 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 48
+2017-03-15 11:55:02,354 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:02,355 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 24 00 47 59 32 32 52 42 12 43 86 03 03 02 0F F6 0B A5 CC 29 F5 84 88 2C F2 18 CC 3A E7 06 02 0F F6 0B AD DA A1 19 CA AB CB 18 7A D5 3A 32 07 4B ED 16
+2017-03-15 11:55:02,355 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:03,364 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 82
+2017-03-15 11:55:03,364 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:03,365 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 46 00 47 59 32 32 52 42 12 43 86 8F 02 02 0F F6 06 A5 D2 12 EE DF E9 C9 CC C1 29 09 D2 07 02 0F F6 06 A2 6C 5C 14 15 EA 28 52 9E 2A 09 D3 04 02 0F F6 06 A5 6C 5C 14 15 EA 28 3E CA 2A 09 EE 04 02 0F F6 06 A0 6C 5C 14 15 EA 28 9E 15 2B 09 95 04 60 E3 16
+2017-03-15 11:55:03,366 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:04,374 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:55:04,374 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:04,375 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 90 02 02 0F F6 06 9D 74 AC 5F 70 E8 25 88 7B 3E 09 EE 05 F9 AA 16
+2017-03-15 11:55:04,375 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:06,424 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:55:06,424 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:06,425 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 91 02 02 0F F6 06 A7 CC 3A 61 C6 AC B0 58 4D 5D 09 46 06 98 71 16
+2017-03-15 11:55:06,426 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:08,345 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:55:08,346 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:08,346 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 04 03 02 0F F6 0B AC 74 E5 0B 7D 27 92 48 23 26 3B 22 05 D3 27 16
+2017-03-15 11:55:08,347 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:09,345 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,350 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,351 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,354 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,354 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,358 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,358 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,362 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,362 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,366 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,366 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,370 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,370 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,374 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,374 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,377 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,378 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,381 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,382 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,388 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,388 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,392 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,392 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,395 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,396 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,399 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,399 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,406 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,406 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,412 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,413 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,421 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,422 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,427 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,428 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,432 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,433 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,437 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,437 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,441 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,441 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:09,445 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:09,445 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:10,359 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:10,359 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:10,367 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:10,367 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:10,371 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:10,372 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:10,375 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:10,376 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:10,379 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:10,380 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:10,383 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:10,384 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:10,388 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:10,388 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 785
+2017-03-15 11:55:10,389 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:29,796 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 05 03 02 0F F6 0B AE A4 44 D1 E6 4A 57 5E 36 36 3B 03 06 D7 7F 16 86 24 00 47 59 32 32 52 42 12 43 86 93 02 02 0F F6 06 AF BC 9F EF 80 4A AD 84 E2 B0 09 9A 07 02 0F F6 06 AD BC 9F EF 80 4A AD EE 02 B1 09 23 07 A9 4B 16 86 13 00 47 59 32 32 52 42 12 43 86 06 03 02 0F F6 0B A5 AC D1 B8 13 BE 6F F0 0C 70 3B D1 06 53 73 16 6B CA 88 1D D2 09 DB 06 02 0F F6 06 A0 A4 44 D1 D0 B6 93 4C 12 DA 09 BE 06 02 0F F6 06 9F A4 44 D1 D0 B6 93 62 23 DA 09 E4 06 6F 83 16 86 24 00 47 59 32 32 52 42 12 43 86 07 03 02 0F F6 0B A6 40 C6 2A 8B 63 4F 28 5A 8A 3B 6A 05 02 0F F6 0B A2 76 1E 82 05 9F 46 FC BF 8F 3B 37 06 B4 F9 16 86 24 00 47 59 32 32 52 42 12 43 86 08 03 02 0F F6 0B A4 02 A9 1E 67 74 2F 14 25 A3 3B 9E 04 02 0F F6 0B A5 68 5D 43 30 C3 D4 7A FC AA 3B DF 06 95 12 16 C1 12 26 FC 24 0A 07 05 02 0F F6 06 A9 2A 13 84 09 94 2A 6A 64 27 0A 3B 04 02 0F F6 06 AC 04 E5 36 0A C1 12 28 A8 28 0A B5 04 E6 D4 16 86 35 00 47 59 32 32 52 42 12 43 86 09 03 02 0F F6 0B AD 2C D0 5A B1 C6 09 6E AE BC 3B A6 06 02 0F F6 0B B5 04 E5 36 0A C1 12 72 C8 C2 3B F8 05 02 0F F6 0B AC 2A 13 84 09 94 2A 7E A3 C6 3B 66 05 76 9A 16 EA 28 A4 D0 56 0A 88 05 02 0F F6 06 A5 6C 5C 14 15 EA 28 5A 3E 57 0A AC 04 02 0F F6 06 A8 4C BB 58 3C E5 80 70 0B 59 0A 91 05 03 E1 16 86 57 00 47 59 32 32 52 42 12 43 86 0A 03 02 0F F6 0B A4 F0 99 BF E8 04 38 3E 8B E2 3B 06 07 02 0F F6 0B C3 E4 98 D1 E3 EA 1C 66 DC E4 3B 6A 08 02 0F F6 0B A5 9C B7 0D 0A 6A 43 C8 BD E6 3B 72 06 02 0F F6 0B A4 4C BB 58 3C E5 80 1C 0C ED 3B 04 06 02 0F F6 0B A9 A8 1B 5A 2F 35 59 E6 DD F3 3B 84 06 EC 17 16 86 24 00 47 59 32 32 52 42 12 43 86 0B 03 02 0F F6 0B AD C0 EE FB F0 9E 42 92 BC 02 3C C2 07 02 0F F6 0B A7 84 4B F5 7C D6 F5 A2 CA 0E 3C 78 07 86 D3 16 86 35 00 47 59 32 32 52 42 12 43 86 0C 03 02 0F F6 0B A3 5C AD CF 4F F3 19 2C DC 1E 3C 48 06 02 0F F6 0B AC 90 48 9A 88 22 C3 34 E8 22 3C 15 06 02 0F F6 0B B1 64 CC 2E F7 85 E3 46 3C 2C 3C 68 06 A4 E4 16 85 E3 16 7E 97 0A B2 06 02 0F F6 06 B5 64 CC 2E F7 85 E3 C2 25 98 0A 06 07 02 0F F6 06 A4 6C 5C 14 15 EA 28 10 3B A1 0A A8 04 02 0F F6 06 A4 6C 5C 14 15 EA 28 C6 5C A2 0A 80 05 69 AE 16 86 13 00 47 59 32 32 52 42 12 43 86 98 02 02 0F F6 06 A6 DA A1 19 EF AE 6E 08 30 B4 0A 46 06 3F 3E 16 86 35 00 47 59 32 32 52 42 12 43 86 0D 03 02 0F F6 0B B9 A8 6B AD 21 C3 E3 E0 70 42 3C 1E 07 02 0F F6 0B A9 B0 D5 9D 82 4F B2 B8 FE 42 3C 92 07 02 0F F6 0B AB DA A1 19 EF AE
+2017-03-15 11:55:33,284 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 EndMark is error!
+2017-03-15 11:55:33,285 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:33,289 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:33,289 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:33,292 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:33,293 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:33,296 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:33,296 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:33,299 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:33,299 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:33,303 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:33,303 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:55:33,303 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:33,303 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 0E 03 02 0F F6 0B A3 9A 9A FB 11 9C B4 5C 2E 5A 3C 63 06 AE 1C 16
+2017-03-15 11:55:33,304 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:33,384 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 82
+2017-03-15 11:55:33,385 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:33,385 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 46 00 47 59 32 32 52 42 12 43 86 99 02 02 0F F6 06 A1 D8 9A 34 0E 77 F2 46 24 DF 0A 1C 06 02 0F F6 06 A1 D8 9A 34 0E 77 F2 A2 79 DF 0A CD 06 02 0F F6 06 A3 6C 5C 14 15 EA 28 CE 06 ED 0A 7C 05 02 0F F6 06 A3 6C 5C 14 15 EA 28 8A 8F ED 0A C1 05 75 4B 16
+2017-03-15 11:55:33,386 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:34,396 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 48
+2017-03-15 11:55:34,396 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:34,396 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 24 00 47 59 32 32 52 42 12 43 86 0F 03 02 0F F6 0B A2 9C B7 0D 0A 74 68 14 4F 7B 3C 12 05 02 0F F6 0B AF AC FD CE 78 37 3C 6C D8 81 3C 22 07 48 94 16
+2017-03-15 11:55:34,397 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:35,735 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:55:35,736 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:35,736 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 10 03 02 0F F6 0B C2 44 1C A8 0E 8D 0D B6 84 97 3C 8F 05 B4 FE 16
+2017-03-15 11:55:35,736 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:38,474 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:55:38,475 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:38,475 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 9A 02 02 0F F6 06 A4 6C 5C 14 15 EA 28 76 9A 38 0B 05 05 E2 63 16
+2017-03-15 11:55:38,475 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:39,547 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 65
+2017-03-15 11:55:39,547 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:39,548 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 35 00 47 59 32 32 52 42 12 43 86 11 03 02 0F F6 0B AB 78 02 F8 65 A7 E2 4E 9C AE 3C EF 06 02 0F F6 0B C6 44 1C A8 0E 8D 0D 5A 81 BA 3C 57 05 02 0F F6 0B A3 30 3A 64 B7 98 2D 6C 54 BD 3C B6 05 53 D9 16
+2017-03-15 11:55:39,548 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:40,487 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:55:40,487 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:40,488 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 9B 02 02 0F F6 06 A2 CC 29 F5 84 88 2C A6 AF 4A 0B 79 06 3C 8C 16
+2017-03-15 11:55:40,488 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:40,488 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 48
+2017-03-15 11:55:40,489 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:40,489 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 24 00 47 59 32 32 52 42 12 43 86 12 03 02 0F F6 0B A6 C8 A8 23 BD 7B 68 18 0A CB 3C 12 06 02 0F F6 0B AB DA A1 19 B5 F7 C4 30 83 CD 3C 7B 07 69 ED 16
+2017-03-15 11:55:40,489 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:42,076 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 48
+2017-03-15 11:55:42,077 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:42,077 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 24 00 47 59 32 32 52 42 12 43 86 13 03 02 0F F6 0B A9 38 71 DE 37 83 CF 1A AF E1 3C AF 06 02 0F F6 0B A4 C2 81 73 D4 C1 10 EC 0A ED 3C 2E 07 65 8A 16
+2017-03-15 11:55:42,078 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:43,884 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 48
+2017-03-15 11:55:43,884 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:43,885 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 24 00 47 59 32 32 52 42 12 43 86 14 03 02 0F F6 0B AB 6C 5C 14 15 EA 28 A8 E9 03 3D 8F 05 02 0F F6 0B BF F8 A4 5F 8F FD 4E 2A 48 05 3D 58 06 AD 38 16
+2017-03-15 11:55:43,885 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:44,895 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 48
+2017-03-15 11:55:44,895 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:44,895 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 24 00 47 59 32 32 52 42 12 43 86 9C 02 02 0F F6 06 A1 E0 DD C0 8E CA 5C F2 08 87 0B 69 07 02 0F F6 06 A4 E6 43 D6 A1 5D F1 FE 68 90 0B 9E 07 82 09 16
+2017-03-15 11:55:44,896 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:46,095 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 48
+2017-03-15 11:55:46,095 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:46,096 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 24 00 47 59 32 32 52 42 12 43 86 15 03 02 0F F6 0B C7 30 F7 72 40 C3 6F 78 3B 1B 3D ED 05 02 0F F6 0B A0 34 E6 AD 33 23 5E 88 2F 23 3D 42 05 F0 B9 16
+2017-03-15 11:55:46,096 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:47,682 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 99
+2017-03-15 11:55:47,682 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:47,682 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 57 00 47 59 32 32 52 42 12 43 86 9D 02 02 0F F6 06 A1 10 2A B3 2A 18 23 A4 A0 B5 0B 02 05 02 0F F6 06 A1 D8 9A 34 0E 77 F2 F8 EE BE 0B 78 07 02 0F F6 06 A2 D8 9A 34 0E 77 F2 E8 46 BF 0B C2 06 02 0F F6 06 A9 C6 65 BF 90 6B CA C6 CD C0 0B C1 07 02 0F F6 06 A8 C6 65 BF 90 6B CA D6 7D C1 0B 81 07 7F CA 16
+2017-03-15 11:55:47,683 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:48,688 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 48
+2017-03-15 11:55:48,688 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:48,689 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 24 00 47 59 32 32 52 42 12 43 86 16 03 02 0F F6 0B AE 10 2A B3 2A 18 23 78 F5 30 3D EA 04 02 0F F6 0B B2 C6 65 BF 90 6B CA D0 33 3A 3D EB 06 64 C5 16
+2017-03-15 11:55:48,689 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:49,716 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:55:49,717 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:49,717 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 9E 02 02 0F F6 06 AA A4 44 D1 E6 4A 57 50 B3 D5 0B D8 06 6E 79 16
+2017-03-15 11:55:49,718 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:50,712 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 65
+2017-03-15 11:55:50,712 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:50,713 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 35 00 47 59 32 32 52 42 12 43 86 17 03 02 0F F6 0B C0 94 39 E5 0A 06 65 C2 D6 4D 3D 19 06 02 0F F6 0B AC A4 44 D1 E6 4A 57 84 4D 51 3D 5B 06 02 0F F6 0B AC DA A1 19 53 D8 0A 3E BB 53 3D 0E 06 19 32 16
+2017-03-15 11:55:50,713 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:52,435 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:55:52,436 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:52,436 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 18 03 02 0F F6 0B B4 00 B3 62 62 9F 5F 1A 93 78 3D 9B 05 0F FA 16
+2017-03-15 11:55:52,437 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:53,995 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:53,998 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:53,999 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,002 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,002 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,006 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,007 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,011 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,011 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,015 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,016 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,019 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,020 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,026 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,027 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,030 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,031 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,034 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,035 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,038 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,039 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,042 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,043 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,046 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,047 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,052 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,053 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,056 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,057 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,060 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,061 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,064 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,065 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,068 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,069 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,072 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,073 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,080 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,080 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,086 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,086 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,090 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,090 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,094 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,094 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,098 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,098 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,102 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,103 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,107 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,108 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,111 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,112 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,115 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,116 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,119 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,119 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,123 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:54,123 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:54,127 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:55,006 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:55:55,011 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:55:55,011 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:55:55,011 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:55,012 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 19 03 02 0F F6 0B C7 FC 3F 7C 3E 4B F5 6A 94 93 3D DA 06 79 F5 16
+2017-03-15 11:55:55,012 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:56,037 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 82
+2017-03-15 11:55:56,038 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:56,038 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 46 00 47 59 32 32 52 42 12 43 86 A0 02 02 0F F6 06 B4 00 B3 62 62 9F 5F AA 8C 3B 0C B1 05 02 0F F6 06 B4 00 B3 62 62 9F 5F 58 B4 3B 0C 87 05 02 0F F6 06 B3 00 B3 62 62 9F 5F D6 E4 3B 0C 34 06 02 0F F6 06 B4 00 B3 62 62 9F 5F 32 10 3C 0C BE 04 09 D4 16
+2017-03-15 11:55:56,039 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:55:59,054 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 48
+2017-03-15 11:55:59,055 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:55:59,055 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 24 00 47 59 32 32 52 42 12 43 86 1A 03 02 0F F6 0B A8 00 E0 4D 00 5C 2E E2 5F C8 3D B5 05 02 0F F6 0B BA AA 00 00 4E 11 D9 DE C9 D1 3D 61 06 5F 34 16
+2017-03-15 11:55:59,056 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:56:00,550 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:56:00,550 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:56:00,551 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 1B 03 02 0F F6 0B B4 42 34 60 DC 8E D9 4A 5F E5 3D A8 06 98 88 16
+2017-03-15 11:56:00,551 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:56:01,516 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:01,522 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:01,522 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:01,526 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:01,526 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:01,529 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:01,529 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:01,533 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:01,534 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:01,541 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:01,542 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:01,547 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:01,547 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:01,552 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:01,552 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:01,556 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:01,557 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:01,561 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:01,561 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:01,565 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:02,525 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:02,530 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:02,530 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:56:02,530 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:56:02,531 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 1C 03 02 0F F6 0B B0 C0 EE FB F0 9E 42 94 7A F8 3D 7C 08 46 97 16
+2017-03-15 11:56:02,531 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:56:02,531 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:56:02,531 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:56:02,531 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 A2 02 02 0F F6 06 A2 D8 9A 34 0E 77 F2 AE FE 9D 0C 1F 07 61 A4 16
+2017-03-15 11:56:02,532 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:56:04,975 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:56:04,976 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:56:04,976 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 1D 03 02 0F F6 0B B6 04 E5 36 0A C1 12 F0 61 21 3E 72 05 3C C3 16
+2017-03-15 11:56:04,976 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:56:05,985 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:05,990 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:05,990 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:05,993 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:05,994 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:05,997 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:05,997 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:06,003 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:06,003 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,070 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,070 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,075 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,075 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,079 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,079 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,082 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,083 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,088 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,089 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,095 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,095 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,098 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,099 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,103 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,104 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,107 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,108 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,112 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,112 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,116 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,116 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,124 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,124 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,128 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,129 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,133 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,133 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,138 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,139 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,142 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,143 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,147 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,147 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,151 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,151 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,155 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,156 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,159 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,159 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,162 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,163 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,168 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:09,169 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:09,173 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:10,655 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:10,659 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:10,660 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 116
+2017-03-15 11:56:10,660 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:56:10,660 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 68 00 47 59 32 32 52 42 12 43 86 A5 02 02 0F F6 06 BA FA 77 BD B5 13 0C 08 84 12 0D 72 05 02 0F F6 06 B6 FA 77 BD B5 13 0C 4C 12 13 0D 41 05 02 0F F6 06 BB FA 77 BD B5 13 0C 02 F8 13 0D E2 05 02 0F F6 06 B9 FA 77 BD B5 13 0C 66 E1 14 0D 2E 06 02 0F F6 06 BB FA 77 BD B5 13 0C 98 A2 15 0D 24 06 02 0F F6 06 B5 FA 77 BD B5 13 0C 72 8B 16 0D E2 05 A7 8E 16
+2017-03-15 11:56:10,661 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:56:11,664 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 99
+2017-03-15 11:56:11,665 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:56:11,665 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 57 00 47 59 32 32 52 42 12 43 86 1E 03 02 0F F6 0B AB 74 E5 0B 7D 27 92 02 02 51 3E E8 04 02 0F F6 0B AE CC 3A 61 C6 AC B0 BA 01 57 3E 97 06 02 0F F6 0B B8 FA 77 BD B5 13 0C 14 DA 63 3E 59 06 02 0F F6 0B AC DA A1 19 B4 16 00 38 EE 6D 3E EB 05 02 0F F6 0B A3 B0 89 00 2B 40 96 32 4F 76 3E 22 05 C1 4B 16
+2017-03-15 11:56:11,666 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:56:14,167 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:56:14,168 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:56:14,168 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 1F 03 02 0F F6 0B B3 8C BE BE B2 84 D6 2C 43 9D 3E 21 07 68 C6 16
+2017-03-15 11:56:14,168 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:56:15,174 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,179 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,179 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,183 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,183 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,188 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,188 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,191 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,192 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,195 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,196 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,199 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,199 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,204 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,204 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,209 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,209 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,213 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,213 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,220 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,221 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,224 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,225 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,228 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,229 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,232 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,233 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,237 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,237 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,242 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,242 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,245 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,246 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,250 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,251 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,254 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,254 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,257 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,258 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,261 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,261 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,264 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,265 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,268 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,268 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,271 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,271 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,274 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,275 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,281 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,282 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,285 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,285 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,293 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,294 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,297 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,297 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,300 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,301 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,304 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,304 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,307 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,308 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,311 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,311 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,315 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,316 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,322 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,322 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,327 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,328 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,331 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,331 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,334 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,334 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:15,342 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:15,342 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:16,803 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:16,804 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:16,807 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:16,808 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:16,811 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:16,811 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:16,814 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:16,815 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:16,822 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:16,823 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:16,827 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:16,827 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:16,831 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:16,831 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 812
+2017-03-15 11:56:16,832 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:56:34,616 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 20 03 02 0F F6 0B AD 00 26 5E ED 57 0D 88 E9 BE 3E FF 05 02 0F F6 0B AE 00 6B 8E 2C 7F E1 B2 A5 C0 3E 98 06 A8 C6 16 86 24 00 47 59 32 32 52 42 12 43 86 A7 02 02 0F F6 06 A2 00 26 5E ED 57 0D 66 A2 6E 0D 05 05 02 0F F6 06 A4 00 26 5E ED 57 0D 58 D7 74 0D 34 05 DF 69 16 86 35 00 47 59 32 32 52 42 12 43 86 A8 02 02 0F F6 06 B6 5C C5 D4 94 13 49 24 3E 8A 0D 9F 05 02 0F F6 06 B6 5C C5 D4 94 13 49 A8 E3 8A 0D C8 06 02 0F F6 06 B5 5C C5 D4 94 13 49 7E 13 8B 0D CE 05 FA 7A 16 86 13 00 47 59 32 32 52 42 12 43 86 21 03 02 0F F6 0B B2 5C C5 D4 94 13 49 EA AF D8 3E 56 07 06 C0 16 86 24 00 47 59 32 32 52 42 12 43 86 22 03 02 0F F6 0B AF DA A1 19 DF 5B F5 A2 3B F5 3E 92 07 02 0F F6 0B B0 E0 AC CB 55 F3 E1 7A E5 F7 3E D4 08 80 3C 16 F3 E1 0E 42 B1 0D 4C 07 02 0F F6 06 B2 E0 AC CB 55 F3 E1 74 69 B1 0D D8 07 02 0F F6 06 9B C8 A8 23 BD 7B 68 C4 7A B6 0D DA 06 8E 43 16 86 13 00 47 59 32 32 52 42 12 43 86 23 03 02 0F F6 0B C5 FC 1A 11 CC 5D 57 8E FB 09 3F 4D 06 BF 6F 16 86 13 00 47 59 32 32 52 42 12 43 86 24 03 02 0F F6 0B A8 D4 61 2E 36 8E 3B EE EF 18 3F 4E 06 E0 38 16 86 13 00 47 59 32 32 52 42 12 43 86 AA 02 02 0F F6 06 A3 D4 61 2E 36 8E 3B D0 D1 D4 0D 92 06 0F F1 16 86 13 00 47 59 32 32 52 42 12 43 86 25 03 02 0F F6 0B AC 9C B7 0D 0A 6A 43 88 B6 30 3F 80 05 8A 39 16 86 13 00 47 59 32 32 52 42 12 43 86 26 03 02 0F F6 0B A6 90 48 9A 88 22 C3 AA DC 4B 3F A5 06 E2 D1 16 86 46 00 47 59 32 32 52 42 12 43 86 AB 02 02 0F F6 06 9F 84 4B F5 5E 80 3F F2 93 08 0E 26 06 02 0F F6 06 A1 90 48 9A 88 22 C3 3E 43 0A 0E 24 05 02 0F F6 06 A1 90 48 9A 88 22 C3 1A DB 14 0E A2 05 02 0F F6 06 A5 90 48 9A 88 22 C3 3C 52 15 0E 40 05 76 68 16 86 57 00 47 59 32 32 52 42 12 43 86 AC 02 02 0F F6 06 9F B0 D5 9D 82 4F B2 42 69 25 0E 2D 06 02 0F F6 06 AA A4 44 D1 E6 4A 57 96 AD 26 0E 6C 06 02 0F F6 06 A0 D8 9A 34 0E 77 F2 D4 E9 27 0E BA 06 02 0F F6 06 A3 D8 9A 34 0E 77 F2 EA 69 28 0E 54 06 02 0F F6 06 A1 6C 5C 14 15 EA 28 A8 FE 29 0E 8C 05 21 94 16 86 35 00 47 59 32 32 52 42 12 43 86 27 03 02 0F F6 0B A5 B0 C0 90 24 5F 4A D2 EA 5D 3F DA 06 02 0F F6 0B BF A8 6B AD 21 C3 E3 18 34 6B 3F 4C 06 02 0F F6 0B A6 CC 29 F5 84 88 2C 58 7E 77 3F 64 06 A7 A1 16 86 24 00 47 59 32 32 52 42 12 43 86 AD 02 02 0F F6 06 A3 D8 9A 34 0E 77 F2 2A 26 5C 0E 85 05 02 0F F6 06 A1 D8 9A 34 0E 77 F2 F0 59 5C 0E 7C 06 D4 D1 16 86 24 00 47 59 32 32 52 42 12 43 86 AE 02 02 0F F6 06 A1 84 4B F5 7C D6 F5 58 01 7A 0E 98 06 02 0F F6 06 A0 84 4B F5 7C D6 F5 64 70 7A 0E 12 07 A0 95
+2017-03-15 11:56:34,619 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 EndMark is error!
+2017-03-15 11:56:35,624 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:35,630 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:35,631 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:35,635 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:35,635 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:35,639 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:35,639 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:35,646 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:35,646 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:35,650 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:35,650 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:56:35,654 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:56:35,655 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 820
+2017-03-15 11:56:35,655 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:00,346 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 28 03 02 0F F6 0B AB 84 4B F5 7C D6 F5 F6 BC B2 3F 69 08 91 33 16 86 0B 00 47 59 32 32 52 42 12 43 86 29 03 02 07 F8 E2 EC C0 3F CC 03 58 C0 16 86 13 00 47 59 32 32 52 42 12 43 86 2A 03 02 0F F6 0B A4 B0 89 00 2B 40 96 CC 74 D0 3F 3D 06 EB 26 16 86 13 00 47 59 32 32 52 42 12 43 86 2B 03 02 0F F6 0B A9 38 71 DE 37 83 CF 48 7A E2 3F AC 06 63 24 16 86 13 00 47 59 32 32 52 42 12 43 86 AF 02 02 0F F6 06 A4 E0 DD C0 8E CA 5C E8 9C C0 0E 32 08 10 44 16 86 13 00 47 59 32 32 52 42 12 43 86 B0 02 02 0F F6 06 A2 74 AC 5F 70 E8 25 C6 D9 0B 0F 62 06 1A A9 16 86 46 00 47 59 32 32 52 42 12 43 86 2C 03 02 0F F6 0B AC 6C 5C 14 15 EA 28 E0 54 39 40 6C 05 02 0F F6 0B A7 74 AC 5F 70 E8 25 42 1A 3C 40 8B 05 02 0F F6 0B C8 30 F7 72 40 C3 6F 58 B4 43 40 72 06 02 0F F6 0B A5 C8 A8 23 BD 7B 68 96 EA 44 40 EC 06 6E DC 16 86 13 00 47 59 32 32 52 42 12 43 86 B1 02 02 0F F6 06 A2 D8 9A 34 0E 77 F2 64 58 3A 0F CF 05 F7 E5 16 86 57 00 47 59 32 32 52 42 12 43 86 B2 02 02 0F F6 06 B3 64 CC 2E F7 85 E3 26 75 4F 0F 74 06 02 0F F6 06 AE 64 CC 2E F7 85 E3 FC 2B 50 0F FC 06 02 0F F6 06 A1 E0 DD C0 8E CA 5C 5E 3C 56 0F DC 06 02 0F F6 06 AE 04 E5 36 0A C1 12 96 75 5D 0F 2C 05 02 0F F6 06 AA 04 E5 36 0A C1 12 E8 8B 61 0F 94 05 5E A3 16 86 46 00 47 59 32 32 52 42 12 43 86 2D 03 02 0F F6 0B B2 64 CC 2E F7 85 E3 58 FC 73 40 86 07 02 0F F6 0B BE 94 39 E5 0A 06 65 02 41 76 40 EE 04 02 0F F6 0B B5 04 E5 36 0A C1 12 60 4B 80 40 2C 05 02 0F F6 0B A2 7E 97 2F 36 73 5C 4E E6 84 40 F3 05 4D D4 16 86 13 00 47 59 32 32 52 42 12 43 86 2E 03 02 0F F6 0B A4 C6 65 BF 90 6B CA 4A B6 9D 40 40 07 35 DF 16 86 35 00 47 59 32 32 52 42 12 43 86 B3 02 02 0F F6 06 B5 48 51 B7 7E 2D 9A D2 C5 97 0F 92 06 02 0F F6 06 B3 48 51 B7 7E 2D 9A 2A 13 98 0F 37 05 02 0F F6 06 B5 48 51 B7 7E 2D 9A 6C 4E 9C 0F BA 05 0A FE 16 86 35 00 47 59 32 32 52 42 12 43 86 2F 03 02 0F F6 0B AE 48 51 B7 7E 2D 9A 70 22 B4 40 D9 05 02 0F F6 0B A7 F6 18 8F 20 A8 6A 6E 39 BA 40 27 06 02 0F F6 0B A3 E0 DD C0 8E CA 5C D4 8A BD 40 3F 08 41 E4 16 86 24 00 47 59 32 32 52 42 12 43 86 30 03 02 0F F6 0B BD F8 A4 5F 8F FD 4E B0 B7 DB 40 24 08 02 0F F6 0B BA EA 11 17 10 D8 68 AC CC E2 40 C6 06 1C 2D 16 86 24 00 47 59 32 32 52 42 12 43 86 B4 02 02 0F F6 06 B0 EA 11 17 10 D8 68 66 5B CB 0F B8 05 02 0F F6 06 A6 4C BB 58 3C E5 80 50 B7 D3 0F 9A 06 0F 01 16 86 13 00 47 59 32 32 52 42 12 43 86 31 03 02 0F F6 0B BC AA 00 00 4E 11 D9 D0 31 FC 40 EB 05 F3 7D 16 86 13 00 47 59 32 32 52 42 12 43 86 B5 02 02 0F F6 06 A2 E0 DD C0 8E CA 5C 40
+2017-03-15 11:57:00,349 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 EndMark is error!
+2017-03-15 11:57:00,349 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:00,358 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:00,358 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:00,362 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:00,362 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:00,366 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:01,549 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:01,553 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:01,554 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:57:01,554 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:01,554 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 32 03 02 0F F6 0B AA D4 61 2E 36 8E 3B 42 A9 1B 41 63 05 07 9F 16
+2017-03-15 11:57:01,554 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:04,395 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 75
+2017-03-15 11:57:04,396 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:04,396 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 3F 00 47 59 32 32 52 42 12 43 86 B6 02 54 49 4D 51 5F 4E 55 4C 0D 0A 02 0F F6 06 A0 D8 9A 34 0E 77 F2 C8 AD 19 10 66 06 02 0F F6 06 A3 B4 0B 44 82 8B 28 BE 0E 26 10 E8 04 02 0F F6 06 A3 74 AC 5F 70 E8 25 70 E1 34 10 3F 06 E9 B0 16
+2017-03-15 11:57:04,397 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:05,545 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:57:05,545 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:05,546 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 B7 02 02 0F F6 06 A6 F6 18 8F 20 A8 6A 5C C9 45 10 FA 05 8A 5A 16
+2017-03-15 11:57:05,546 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:09,035 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 116
+2017-03-15 11:57:09,036 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:09,036 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 68 00 47 59 32 32 52 42 12 43 86 B8 02 02 0F F6 06 A7 74 E5 0B 7D 27 92 EE AA 6E 10 62 06 02 0F F6 06 A3 74 E5 0B 7D 27 92 04 24 70 10 F0 04 02 0F F6 06 AF CC 3A 61 C6 AC B0 6E 59 73 10 8D 06 02 0F F6 06 B1 CC 3A 61 C6 AC B0 6A 0E 74 10 41 06 02 0F F6 06 AA C6 65 BF 90 6B CA 82 4C 75 10 B7 06 02 0F F6 06 AA A4 44 D1 E6 4A 57 82 DB 79 10 DB 06 BC 6C 16
+2017-03-15 11:57:09,037 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:10,045 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 65
+2017-03-15 11:57:10,045 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:10,045 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 35 00 47 59 32 32 52 42 12 43 86 33 03 02 0F F6 0B C3 44 1C A8 0E 8D 0D 9C 2F 80 41 0F 05 02 0F F6 0B B7 CC 3A 61 C6 AC B0 9A 8B 80 41 36 07 02 0F F6 0B B4 20 AB 37 39 D2 64 42 18 88 41 58 05 C0 90 16
+2017-03-15 11:57:10,046 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:14,407 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:57:14,407 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:14,408 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 34 03 02 0F F6 0B B3 FC 3F 7C 3E 4B F5 AE 22 C9 41 D2 06 60 B5 16
+2017-03-15 11:57:14,408 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:16,616 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 82
+2017-03-15 11:57:16,616 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:16,616 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 46 00 47 59 32 32 52 42 12 43 86 B9 02 02 0F F6 06 A0 A8 1B 5A 2F 35 59 EE 19 E1 10 7D 05 02 0F F6 06 A2 A8 1B 5A 2F 35 59 8A 9E E1 10 A0 05 02 0F F6 06 A0 A8 1B 5A 2F 35 59 BC 50 E2 10 83 05 02 0F F6 06 A9 C6 65 BF 90 6B CA CA 8E EA 10 B5 07 4F C3 16
+2017-03-15 11:57:16,617 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:17,625 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:57:17,626 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:17,626 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 35 03 02 0F F6 0B A5 1C 65 9D A6 79 76 B0 22 F1 41 6C 06 19 16 16
+2017-03-15 11:57:17,627 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:19,480 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:57:19,481 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:19,481 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 36 03 02 0F F6 0B B7 2C D0 5A B1 C6 09 58 0A 0D 42 4E 05 16 F4 16
+2017-03-15 11:57:19,482 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:20,449 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 65
+2017-03-15 11:57:20,449 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:20,450 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 35 00 47 59 32 32 52 42 12 43 86 BA 02 02 0F F6 06 A9 26 F8 57 66 15 C7 D0 DD 0D 11 36 06 02 0F F6 06 A5 26 F8 57 66 15 C7 98 18 0E 11 36 05 02 0F F6 06 A2 6C 5C 14 15 EA 28 2E 8F 1C 11 9A 04 9B 4F 16
+2017-03-15 11:57:20,450 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:22,655 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:57:22,656 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:22,656 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 BB 02 02 0F F6 06 A5 F6 18 8F 20 A8 6A 98 30 44 11 9C 05 6B C4 16
+2017-03-15 11:57:22,657 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:25,987 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 65
+2017-03-15 11:57:25,987 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:25,987 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 35 00 47 59 32 32 52 42 12 43 86 37 03 02 0F F6 0B A3 E4 47 90 CE AC 8B F8 B4 58 42 B9 07 02 0F F6 0B BE E4 98 D1 E3 EA 1C A6 1A 5D 42 63 07 02 0F F6 0B BE E4 58 B8 B2 64 67 5C 20 65 42 62 06 DC FC 16
+2017-03-15 11:57:25,988 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:26,995 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 65
+2017-03-15 11:57:26,995 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:26,996 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 35 00 47 59 32 32 52 42 12 43 86 BC 02 02 0F F6 06 A2 E0 DD C0 8E CA 5C 88 CA 7A 11 BB 07 02 0F F6 06 A1 E0 DD C0 8E CA 5C D8 F5 7A 11 35 08 02 0F F6 06 A2 F6 18 8F 20 A8 6A 5E A0 7D 11 08 06 98 FB 16
+2017-03-15 11:57:26,996 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:28,005 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:57:28,005 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:28,006 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 BD 02 02 0F F6 06 A4 90 48 9A 88 22 C3 5A 04 90 11 8D 05 C3 95 16
+2017-03-15 11:57:28,006 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:28,006 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 65
+2017-03-15 11:57:28,007 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:28,007 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 35 00 47 59 32 32 52 42 12 43 86 38 03 02 0F F6 0B AA 9C B7 0D 0A 6A 43 B6 E7 73 42 23 06 02 0F F6 0B A5 C0 EE FB F0 9E 42 C8 6B 77 42 1A 08 02 0F F6 0B AE 90 48 9A 88 22 C3 6C 48 7E 42 11 06 D1 77 16
+2017-03-15 11:57:28,008 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:29,566 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 48
+2017-03-15 11:57:29,566 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:29,566 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 24 00 47 59 32 32 52 42 12 43 86 39 03 02 0F F6 0B BC A8 6B AD 21 C3 E3 C8 A3 93 42 93 07 02 0F F6 0B A9 A4 44 D1 E6 4A 57 62 32 95 42 64 06 81 A7 16
+2017-03-15 11:57:29,567 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:30,879 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 31
+2017-03-15 11:57:30,879 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:30,880 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 13 00 47 59 32 32 52 42 12 43 86 3A 03 02 0F F6 0B A7 2A ED 4D 88 6F D7 06 13 A7 42 EB 05 C7 A4 16
+2017-03-15 11:57:30,880 [WARN] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:38:21 No BackEnd is online！
+2017-03-15 11:57:31,886 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:31,890 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:31,891 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:31,894 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:31,895 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:31,900 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:31,901 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:31,907 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:31,907 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:32,902 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:32,903 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:32,906 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:32,907 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:32,910 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:32,910 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:32,918 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:32,919 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:32,922 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:32,922 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:32,925 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:32,926 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:32,929 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:32,929 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 839
+2017-03-15 11:57:32,929 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-15 11:57:57,518 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Receive from Dev : 86 3B 03 02 0F F6 0B A7 88 70 8C B2 21 11 AC 8A BC 42 53 06 2B EB 16 86 13 00 47 59 32 32 52 42 12 43 86 3C 03 02 0F F6 0B AA AC FD CE 78 37 3C 8A B0 D3 42 6B 07 8E 44 16 86 46 00 47 59 32 32 52 42 12 43 86 BF 02 02 0F F6 06 B0 04 E5 36 0A C1 12 22 38 FA 11 1C 05 02 0F F6 06 B1 04 E5 36 0A C1 12 D4 88 FA 11 1F 06 02 0F F6 06 AD 04 E5 36 0A C1 12 24 3B FE 11 22 05 02 0F F6 06 A4 44 04 44 27 70 FD 1A 3C 07 12 3E 04 F1 2C 16 86 35 00 47 59 32 32 52 42 12 43 86 C0 02 02 0F F6 06 A0 C6 65 BF 90 6B CA 5E 28 19 12 0B 06 02 0F F6 06 A3 D4 61 2E 36 8E 3B 1A 32 20 12 8E 04 02 0F F6 06 A8 DA A1 19 90 9D D1 88 6A 25 12 6E 06 9E D4 16 86 68 00 47 59 32 32 52 42 12 43 86 3D 03 02 0F F6 0B A8 44 04 44 27 70 FD 48 96 F0 42 E8 05 02 0F F6 0B A3 A4 44 D1 F5 6C 5F 66 F0 F9 42 BD 07 02 0F F6 0B AC D4 61 2E 36 8E 3B DA BB FC 42 F1 06 02 0F F6 0B A8 78 02 F8 65 A7 E2 3C EA FF 42 7F 07 02 0F F6 0B B0 DA A1 19 90 9D D1 7E 73 07 43 8D 06 02 0F F6 0B A9 F6 18 8F 20 A8 6A 62 DB 09 43 11 06 2F 87 16 86 13 00 47 59 32 32 52 42 12 43 86 C1 02 02 0F F6 06 A2 84 4B F5 7C D6 F5 94 CC 4D 12 77 07 19 B0 16 86 46 00 47 59 32 32 52 42 12 43 86 3E 03 02 0F F6 0B BC AA 00 00 4E 11 D9 B8 EC 1A 43 AF 05 02 0F F6 0B A4 C8 A8 23 BD 7B 68 DA 43 23 43 6A 06 02 0F F6 0B A6 84 4B F5 7C D6 F5 0E 8C 2B 43 C9 06 02 0F F6 0B A4 FC 1A 11 CC 5D 57 94 EB 30 43 4D 06 EB A9 16 86 24 00 47 59 32 32 52 42 12 43 86 3F 03 02 0F F6 0B C3 F8 A4 5F 8F FD 4E D4 55 6B 43 7F 07 02 0F F6 0B C8 30 F7 72 40 C3 6F 7A 4E 6C 43 5A 06 53 CF 16 86 35 00 47 59 32 32 52 42 12 43 86 C2 02 02 0F F6 06 A3 A8 1B 5A 2F 35 59 A8 2A 9C 12 08 05 02 0F F6 06 A5 A8 1B 5A 2F 35 59 92 0F 9D 12 DA 04 02 0F F6 06 A1 A8 1B 5A 2F 35 59 94 6C 9E 12 36 05 C5 53 16 86 13 00 47 59 32 32 52 42 12 43 86 40 03 02 0F F6 0B A5 C0 EE FB F0 9E 42 30 46 85 43 6C 07 CA CE 16 86 24 00 47 59 32 32 52 42 12 43 86 C3 02 02 0F F6 06 A8 A4 44 D1 E6 4A 57 FC 2A CC 12 F7 06 02 0F F6 06 AB A4 44 D1 E6 4A 57 BE EA CE 12 7E 07 C3 F8 16 86 24 00 47 59 32 32 52 42 12 43 86 41 03 02 0F F6 0B BD 94 39 E5 0A 06 65 EC E5 9E 43 A6 06 02 0F F6 0B A8 A4 44 D1 E6 4A 57 B8 3C A3 43 D2 06 CF 64 16 86 13 00 47 59 32 32 52 42 12 43 86 42 03 02 0F F6 0B BB E4 58 B8 B2 64 67 D2 00 C5 43 16 07 2A 3E 16 86 13 00 47 59 32 32 52 42 12 43 86 43 03 02 0F F6 0B AA 00 B3 62 62 9F 5F 3A 2C D7 43 AF 05 15 BA 16 86 35 00 47 59 32 32 52 42 12 43 86 C4 02 02 0F F6 06 A2 F4 5C 89 A1 97 4D 3A 20 23 13 9B 05 02 0F F6 06 A5 3C A3 48 58 EA E2 2C 40 26 13 A0 05 02 0F F6 06 A5 3C A3 48 58 EA E2 4C 50 26 13 D0 05 48 8A 16 86 13 00
+2017-03-15 11:57:57,521 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 EndMark is error!
+2017-03-15 11:57:57,521 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:57,525 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:57,526 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:57,529 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:57,529 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:57,535 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:57,536 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 BeginMark is error!
+2017-03-15 11:57:57,539 [ERROR] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:41:21 偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+2017-03-15 11:57:57,539 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 848
+2017-03-15 11:57:57,540 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 134
+2017-03-21 10:15:06,468 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Start result: PartialSuccess!
+2017-03-21 10:15:24,246 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Start result: PartialSuccess!
+2017-03-21 10:16:58,027 [INFO] Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\Share.cs:35:21 Start result: Success!

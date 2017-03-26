@@ -1,0 +1,232 @@
+﻿2017-03-24 09:11:22,376 [9060] INFO  DevSocketServer - The server instance DevSocketServer has been started!
+2017-03-24 09:11:22,378 [9060] INFO  AnalySocketServer - The server instance AnalySocketServer has been started!
+2017-03-24 09:12:13,277 [4708] INFO  DevSocketServer - Session: 8f1372b7-75a7-457a-9029-e250c58b110c/223.104.254.74:27578
+A new session connected!
+2017-03-24 09:13:18,970 [9344] INFO  AnalySocketServer - Session: 23c5af3a-4033-4e93-b169-d7ab475f4302/192.168.1.245:2370
+A new session connected!
+2017-03-24 09:13:53,450 [5384] INFO  DevSocketServer - Session: f2215e2f-3f40-4ef4-89a1-26996c383510/223.104.255.134:5881
+A new session connected!
+2017-03-24 09:13:56,016 [264] INFO  DevSocketServer - Session: 8f1372b7-75a7-457a-9029-e250c58b110c/223.104.254.74:27578
+This session was closed for ServerClosing!
+2017-03-24 09:17:47,560 [4072] INFO  AnalySocketServer - Session: 23c5af3a-4033-4e93-b169-d7ab475f4302/192.168.1.245:2370
+This session was closed for SocketError!
+2017-03-24 09:18:47,884 [9280] INFO  AnalySocketServer - Session: 9de5a79e-816f-4d2d-9c06-88b3fed62c74/192.168.1.245:2621
+A new session connected!
+2017-03-24 09:19:36,392 [10812] INFO  DevSocketServer - The server instance DevSocketServer has been started!
+2017-03-24 09:19:36,394 [10812] INFO  AnalySocketServer - The server instance AnalySocketServer has been started!
+2017-03-24 09:19:38,920 [10864] INFO  AnalySocketServer - Session: 8a108b16-6ae5-4bd3-b2bd-cc4995efd120/192.168.1.245:2688
+A new session connected!
+2017-03-24 09:20:06,332 [10864] INFO  DevSocketServer - Session: b4191bd2-ba19-4b3c-8561-f27c6121ef93/223.104.254.97:38767
+A new session connected!
+2017-03-24 09:23:33,348 [11016] INFO  AnalySocketServer - Session: 8a108b16-6ae5-4bd3-b2bd-cc4995efd120/192.168.1.245:2688
+This session was closed for SocketError!
+2017-03-24 09:25:14,743 [10856] INFO  DevSocketServer - The server instance DevSocketServer has been started!
+2017-03-24 09:25:14,745 [10856] INFO  AnalySocketServer - The server instance AnalySocketServer has been started!
+2017-03-24 09:25:15,042 [10304] INFO  AnalySocketServer - Session: 1d15be9d-075d-48bb-b852-bd46038c5fc5/192.168.1.245:3625
+A new session connected!
+2017-03-24 09:26:01,712 [10304] INFO  DevSocketServer - Session: 0ce7672e-c483-4b44-8911-96997433492a/223.104.255.218:10897
+A new session connected!
+2017-03-24 09:27:33,497 [9692] INFO  AnalySocketServer - Session: 1d15be9d-075d-48bb-b852-bd46038c5fc5/192.168.1.245:3625
+This session was closed for SocketError!
+2017-03-24 09:27:47,576 [1308] INFO  AnalySocketServer - Session: 7964508d-e5f9-4e14-a317-5edc2f3a30eb/192.168.1.245:3966
+A new session connected!
+2017-03-24 09:28:37,019 [9640] INFO  DevSocketServer - The server instance DevSocketServer has been started!
+2017-03-24 09:28:37,021 [9640] INFO  AnalySocketServer - The server instance AnalySocketServer has been started!
+2017-03-24 09:28:38,620 [7960] INFO  AnalySocketServer - Session: eb9237a7-2c07-4de4-93db-62dd6a7d94ff/192.168.1.245:4109
+A new session connected!
+2017-03-24 09:29:14,897 [10832] INFO  AnalySocketServer - Session: eb9237a7-2c07-4de4-93db-62dd6a7d94ff/192.168.1.245:4109
+This session was closed for SocketError!
+2017-03-24 09:29:18,809 [7960] INFO  AnalySocketServer - Session: 382dceee-b622-4bd4-b90f-296e5a0fac1d/192.168.1.245:4554
+A new session connected!
+2017-03-24 09:29:25,715 [7960] INFO  DevSocketServer - Session: 9b7940c6-0978-455b-b105-3d7b8bc342b0/223.104.254.18:29907
+A new session connected!
+2017-03-24 09:31:44,235 [9640] INFO  DevSocketServer - The server instance DevSocketServer has been stopped!
+2017-03-24 09:31:44,235 [7124] INFO  DevSocketServer - Session: 9b7940c6-0978-455b-b105-3d7b8bc342b0/223.104.254.18:29907
+This session was closed for ServerShutdown!
+2017-03-24 09:31:44,236 [9640] INFO  AnalySocketServer - The server instance AnalySocketServer has been stopped!
+2017-03-24 09:31:44,236 [876] INFO  AnalySocketServer - Session: 382dceee-b622-4bd4-b90f-296e5a0fac1d/192.168.1.245:4554
+This session was closed for ServerShutdown!
+2017-03-24 09:31:55,075 [9384] INFO  DevSocketServer - The server instance DevSocketServer has been started!
+2017-03-24 09:31:55,077 [9384] INFO  AnalySocketServer - The server instance AnalySocketServer has been started!
+2017-03-24 09:32:17,944 [9532] INFO  DevSocketServer - Session: 2a7a8e87-ef8a-4074-96d6-81271f3c97b6/223.104.255.146:12851
+A new session connected!
+2017-03-24 09:32:52,771 [12036] INFO  AnalySocketServer - Session: 8bf12a67-16b1-43ca-9699-c3bc85780fdd/192.168.1.245:5067
+A new session connected!
+2017-03-24 09:34:11,911 [12036] INFO  DevSocketServer - Session: 46f85cec-2f17-4738-82be-06051d2a3aae/223.104.254.53:57756
+A new session connected!
+2017-03-24 09:34:14,376 [10724] INFO  DevSocketServer - Session: 2a7a8e87-ef8a-4074-96d6-81271f3c97b6/223.104.255.146:12851
+This session was closed for ServerClosing!
+2017-03-24 09:36:56,484 [10724] INFO  AnalySocketServer - Session: 8bf12a67-16b1-43ca-9699-c3bc85780fdd/192.168.1.245:5067
+This session was closed for SocketError!
+2017-03-24 09:45:48,952 [8248] INFO  DevSocketServer - The server instance DevSocketServer has been started!
+2017-03-24 09:45:48,954 [8248] INFO  AnalySocketServer - The server instance AnalySocketServer has been started!
+2017-03-24 09:45:53,554 [10156] INFO  AnalySocketServer - Session: f93c85b7-5cd9-4b8c-bac3-40868af78cf8/192.168.1.245:6246
+A new session connected!
+2017-03-24 09:46:04,020 [10156] INFO  DevSocketServer - Session: a0c81a00-1da7-4187-900e-bb39ec1f7357/223.104.254.64:2129
+A new session connected!
+2017-03-24 09:47:32,497 [10840] INFO  AnalySocketServer - Session: f93c85b7-5cd9-4b8c-bac3-40868af78cf8/192.168.1.245:6246
+This session was closed for ClientClosing!
+2017-03-24 09:47:55,759 [11980] INFO  DevSocketServer - The server instance DevSocketServer has been started!
+2017-03-24 09:47:55,761 [11980] INFO  AnalySocketServer - The server instance AnalySocketServer has been started!
+2017-03-24 09:47:56,633 [9476] INFO  AnalySocketServer - Session: 2c56daac-8714-412a-96d5-dbd6cd368423/192.168.1.245:6371
+A new session connected!
+2017-03-24 09:49:10,495 [9476] INFO  DevSocketServer - Session: c84f2df6-41d4-4b2c-826b-1b24a0b360b3/223.104.255.112:12448
+A new session connected!
+2017-03-24 09:55:35,836 [9764] INFO  DevSocketServer - Session: c84f2df6-41d4-4b2c-826b-1b24a0b360b3/223.104.255.112:12448
+This session was closed for SocketError!
+2017-03-24 09:56:13,716 [9764] INFO  DevSocketServer - Session: 535a5377-21a0-4d81-b471-6cfb5ea25617/223.104.255.146:12852
+A new session connected!
+2017-03-24 09:57:52,237 [5456] INFO  DevSocketServer - Session: d0df5caf-14d0-480a-8ffb-204265b3d120/223.104.254.101:16582
+A new session connected!
+2017-03-24 09:58:09,423 [5456] INFO  DevSocketServer - Session: 535a5377-21a0-4d81-b471-6cfb5ea25617/223.104.255.146:12852
+This session was closed for ServerClosing!
+2017-03-24 09:59:24,561 [5456] INFO  DevSocketServer - Session: 8a95e31a-cfef-4372-94da-4af36f38301a/223.104.254.119:2888
+A new session connected!
+2017-03-24 09:59:27,342 [9960] INFO  AnalySocketServer - Session: 2c56daac-8714-412a-96d5-dbd6cd368423/192.168.1.245:6371
+This session was closed for SocketError!
+2017-03-24 09:59:55,166 [5456] INFO  AnalySocketServer - Session: a3deb9df-8b1f-4dff-81c9-cdce8de96bd5/192.168.1.245:6851
+A new session connected!
+2017-03-24 10:02:11,707 [2688] INFO  DevSocketServer - Session: d0df5caf-14d0-480a-8ffb-204265b3d120/223.104.254.101:16582
+This session was closed for ServerClosing!
+2017-03-24 10:02:51,297 [2688] INFO  DevSocketServer - Session: 2d8de9a9-5ca8-428f-b954-88d90c145bab/223.104.254.115:59521
+A new session connected!
+2017-03-24 10:02:54,483 [11940] INFO  DevSocketServer - Session: 8a95e31a-cfef-4372-94da-4af36f38301a/223.104.254.119:2888
+This session was closed for ServerClosing!
+2017-03-24 10:03:52,644 [11980] INFO  DevSocketServer - The server instance DevSocketServer has been stopped!
+2017-03-24 10:03:52,644 [10716] INFO  DevSocketServer - Session: 2d8de9a9-5ca8-428f-b954-88d90c145bab/223.104.254.115:59521
+This session was closed for ServerShutdown!
+2017-03-24 10:03:52,645 [11980] INFO  AnalySocketServer - The server instance AnalySocketServer has been stopped!
+2017-03-24 10:03:52,645 [10716] INFO  AnalySocketServer - Session: a3deb9df-8b1f-4dff-81c9-cdce8de96bd5/192.168.1.245:6851
+This session was closed for ServerShutdown!
+2017-03-24 10:04:05,568 [10320] INFO  DevSocketServer - The server instance DevSocketServer has been started!
+2017-03-24 10:04:05,570 [10320] INFO  AnalySocketServer - The server instance AnalySocketServer has been started!
+2017-03-24 10:04:05,948 [9764] INFO  AnalySocketServer - Session: baf581bf-c09d-4b64-8ffd-6f6a159818b8/192.168.1.245:7848
+A new session connected!
+2017-03-24 10:07:33,458 [14248] INFO  DevSocketServer - The server instance DevSocketServer has been started!
+2017-03-24 10:07:33,460 [14248] INFO  AnalySocketServer - The server instance AnalySocketServer has been started!
+2017-03-24 10:07:36,991 [14028] INFO  AnalySocketServer - Session: 3021a549-4990-49ba-9084-3819f1068fea/192.168.1.245:9032
+A new session connected!
+2017-03-24 10:08:19,522 [14028] INFO  DevSocketServer - Session: cc098ee3-89a7-4c25-b595-9c19cdeee20d/223.104.254.88:27924
+A new session connected!
+2017-03-24 10:13:52,562 [13308] INFO  DevSocketServer - Session: 9a19be8b-a938-4fec-8f2f-926a44402c8d/223.104.255.115:10566
+A new session connected!
+2017-03-24 10:13:55,326 [11304] INFO  DevSocketServer - Session: cc098ee3-89a7-4c25-b595-9c19cdeee20d/223.104.254.88:27924
+This session was closed for ServerClosing!
+2017-03-24 10:15:52,085 [11340] INFO  AnalySocketServer - Session: 3021a549-4990-49ba-9084-3819f1068fea/192.168.1.245:9032
+This session was closed for SocketError!
+2017-03-24 10:19:15,181 [13284] INFO  DevSocketServer - Session: 13c346d4-6e32-4dd1-bcbf-0f241cff0e50/223.104.255.7:17457
+A new session connected!
+2017-03-24 10:19:17,905 [13648] INFO  DevSocketServer - Session: 9a19be8b-a938-4fec-8f2f-926a44402c8d/223.104.255.115:10566
+This session was closed for ServerClosing!
+2017-03-24 10:21:10,083 [1716] INFO  DevSocketServer - Session: fa983b95-e1a7-4b46-ac09-37252933130f/223.104.255.31:19458
+A new session connected!
+2017-03-24 10:21:13,086 [13648] INFO  DevSocketServer - Session: 13c346d4-6e32-4dd1-bcbf-0f241cff0e50/223.104.255.7:17457
+This session was closed for ServerClosing!
+2017-03-24 10:22:44,240 [13916] INFO  DevSocketServer - Session: 3b0bfc84-5942-46f6-aae2-7cf207ca5b33/223.104.254.47:57502
+A new session connected!
+2017-03-24 10:22:46,902 [11340] INFO  DevSocketServer - Session: fa983b95-e1a7-4b46-ac09-37252933130f/223.104.255.31:19458
+This session was closed for ServerClosing!
+2017-03-24 10:24:55,961 [4396] INFO  DevSocketServer - Session: 45498ca1-cb19-4cd8-b59f-7e1ec61e30e7/223.104.255.20:13334
+A new session connected!
+2017-03-24 10:24:58,865 [9388] INFO  DevSocketServer - Session: 3b0bfc84-5942-46f6-aae2-7cf207ca5b33/223.104.254.47:57502
+This session was closed for ServerClosing!
+2017-03-24 10:27:19,164 [4396] INFO  DevSocketServer - Session: 7e8ef224-17cc-4059-8392-db14b0f13297/223.104.255.194:6839
+A new session connected!
+2017-03-24 10:27:22,064 [11340] INFO  DevSocketServer - Session: 45498ca1-cb19-4cd8-b59f-7e1ec61e30e7/223.104.255.20:13334
+This session was closed for ServerClosing!
+2017-03-24 10:27:32,304 [4396] INFO  AnalySocketServer - Session: a999bccf-1c72-4c6e-97a9-dbefa4f25357/192.168.1.245:14180
+A new session connected!
+2017-03-24 10:29:09,063 [9408] INFO  DevSocketServer - Session: 481ba65f-743c-43a7-9639-c5868cac50d0/223.104.254.36:42470
+A new session connected!
+2017-03-24 10:29:11,566 [11340] INFO  DevSocketServer - Session: 7e8ef224-17cc-4059-8392-db14b0f13297/223.104.255.194:6839
+This session was closed for ServerClosing!
+2017-03-24 10:31:20,602 [9408] INFO  DevSocketServer - Session: 083ca2a7-c986-4c63-bb95-d58089f21904/223.104.255.124:17267
+A new session connected!
+2017-03-24 10:31:23,225 [10304] INFO  DevSocketServer - Session: 481ba65f-743c-43a7-9639-c5868cac50d0/223.104.254.36:42470
+This session was closed for ServerClosing!
+2017-03-24 10:33:44,947 [8732] INFO  AnalySocketServer - Session: a999bccf-1c72-4c6e-97a9-dbefa4f25357/192.168.1.245:14180
+This session was closed for SocketError!
+2017-03-24 10:33:52,277 [6212] INFO  AnalySocketServer - Session: a7ad6539-da6c-4a28-ae6a-26a43f4bcc2e/192.168.1.245:16832
+A new session connected!
+2017-03-24 10:34:05,026 [10348] INFO  DevSocketServer - The server instance DevSocketServer has been started!
+2017-03-24 10:34:05,028 [10348] INFO  AnalySocketServer - The server instance AnalySocketServer has been started!
+2017-03-24 10:34:09,346 [10212] INFO  AnalySocketServer - Session: 2f2070d7-7b01-42e6-8ce2-c358da6505aa/192.168.1.245:16960
+A new session connected!
+2017-03-24 10:35:01,261 [10212] INFO  DevSocketServer - Session: 1c42dbd1-96e4-4467-b169-f31ab1f2c328/223.104.254.118:44729
+A new session connected!
+2017-03-24 10:37:18,632 [13176] INFO  AnalySocketServer - Session: 2f2070d7-7b01-42e6-8ce2-c358da6505aa/192.168.1.245:16960
+This session was closed for SocketError!
+2017-03-24 10:41:32,530 [13336] INFO  DevSocketServer - Session: 59c0d227-905b-4401-aedd-cf4c20678586/223.104.255.69:11153
+A new session connected!
+2017-03-24 10:41:35,710 [9496] INFO  DevSocketServer - Session: 1c42dbd1-96e4-4467-b169-f31ab1f2c328/223.104.254.118:44729
+This session was closed for ServerClosing!
+2017-03-24 10:43:10,721 [13336] INFO  DevSocketServer - Session: 58414d31-092b-4990-b8b1-221d3d26faa2/223.104.254.78:9930
+A new session connected!
+2017-03-24 10:43:14,764 [12844] INFO  DevSocketServer - Session: 59c0d227-905b-4401-aedd-cf4c20678586/223.104.255.69:11153
+This session was closed for ServerClosing!
+2017-03-24 10:44:43,931 [13336] INFO  DevSocketServer - Session: 1f70039e-e88c-4b11-8911-7bef790118c1/223.104.254.72:29357
+A new session connected!
+2017-03-24 10:44:46,711 [8160] INFO  DevSocketServer - Session: 58414d31-092b-4990-b8b1-221d3d26faa2/223.104.254.78:9930
+This session was closed for ServerClosing!
+2017-03-24 10:46:17,230 [13556] INFO  DevSocketServer - Session: 67a48337-9b8e-4040-ab7c-4906384c51ab/223.104.255.66:6870
+A new session connected!
+2017-03-24 10:46:19,832 [12616] INFO  DevSocketServer - Session: 1f70039e-e88c-4b11-8911-7bef790118c1/223.104.254.72:29357
+This session was closed for ServerClosing!
+2017-03-24 10:47:50,386 [13556] INFO  DevSocketServer - Session: 35cb9140-5957-4248-add4-51f0835e1eca/223.104.255.249:63734
+A new session connected!
+2017-03-24 10:47:53,529 [6580] INFO  DevSocketServer - Session: 67a48337-9b8e-4040-ab7c-4906384c51ab/223.104.255.66:6870
+This session was closed for ServerClosing!
+2017-03-24 10:49:23,124 [10872] INFO  DevSocketServer - Session: 1a9c973b-ca3c-43b4-8bf7-4f3d771fd25c/223.104.254.76:17426
+A new session connected!
+2017-03-24 10:49:25,869 [9496] INFO  DevSocketServer - Session: 35cb9140-5957-4248-add4-51f0835e1eca/223.104.255.249:63734
+This session was closed for ServerClosing!
+2017-03-24 10:49:50,107 [10872] INFO  AnalySocketServer - Session: 374e4d36-e015-4b29-b66b-99f40dfb29b7/192.168.1.245:19607
+A new session connected!
+2017-03-24 10:51:06,286 [13968] INFO  DevSocketServer - Session: 4b17b380-5678-400f-b8d0-4641bcba60f6/223.104.255.72:40036
+A new session connected!
+2017-03-24 10:51:08,829 [11696] INFO  DevSocketServer - Session: 1a9c973b-ca3c-43b4-8bf7-4f3d771fd25c/223.104.254.76:17426
+This session was closed for ServerClosing!
+2017-03-24 10:55:14,513 [13968] INFO  DevSocketServer - Session: 540abdbc-336b-468b-8ac3-c2db943721ac/223.104.255.116:17180
+A new session connected!
+2017-03-24 10:55:17,750 [9536] INFO  DevSocketServer - Session: 4b17b380-5678-400f-b8d0-4641bcba60f6/223.104.255.72:40036
+This session was closed for ServerClosing!
+2017-03-24 10:55:58,742 [13968] INFO  DevSocketServer - Session: dbba96f9-3678-41a2-b7e1-f0e01e3cea5f/223.104.254.22:46136
+A new session connected!
+2017-03-24 10:56:01,384 [6580] INFO  DevSocketServer - Session: 540abdbc-336b-468b-8ac3-c2db943721ac/223.104.255.116:17180
+This session was closed for ServerClosing!
+2017-03-24 10:57:11,027 [13096] INFO  DevSocketServer - Session: 3791bfb8-c602-4f45-9975-438a7e2fe27b/223.104.255.242:14812
+A new session connected!
+2017-03-24 10:57:14,168 [12616] INFO  DevSocketServer - Session: dbba96f9-3678-41a2-b7e1-f0e01e3cea5f/223.104.254.22:46136
+This session was closed for ServerClosing!
+2017-03-24 11:07:59,447 [12784] INFO  DevSocketServer - Session: 399235bf-e41b-429d-9e47-f10682291174/223.104.254.92:31125
+A new session connected!
+2017-03-24 11:08:02,707 [6460] INFO  DevSocketServer - Session: 3791bfb8-c602-4f45-9975-438a7e2fe27b/223.104.255.242:14812
+This session was closed for ServerClosing!
+2017-03-24 11:10:30,931 [12280] INFO  DevSocketServer - Session: 10b6deb2-bc2a-4d7d-b027-37f7abdae58d/223.104.255.246:9890
+A new session connected!
+2017-03-24 11:10:33,921 [2956] INFO  DevSocketServer - Session: 399235bf-e41b-429d-9e47-f10682291174/223.104.254.92:31125
+This session was closed for ServerClosing!
+2017-03-24 11:14:37,910 [3652] INFO  DevSocketServer - Session: 4cbb7d16-b965-4840-995d-02b75d4d7d2e/223.104.255.217:41767
+A new session connected!
+2017-03-24 11:14:40,792 [11692] INFO  DevSocketServer - Session: 10b6deb2-bc2a-4d7d-b027-37f7abdae58d/223.104.255.246:9890
+This session was closed for ServerClosing!
+2017-03-24 11:15:20,587 [13984] INFO  AnalySocketServer - Session: 374e4d36-e015-4b29-b66b-99f40dfb29b7/192.168.1.245:19607
+This session was closed for SocketError!
+2017-03-24 11:15:52,415 [12204] INFO  DevSocketServer - The server instance DevSocketServer has been started!
+2017-03-24 11:15:52,417 [12204] INFO  AnalySocketServer - The server instance AnalySocketServer has been started!
+2017-03-24 11:15:57,244 [10100] INFO  AnalySocketServer - Session: b0316792-5a48-4262-9122-3cd07b69113d/192.168.1.245:23630
+A new session connected!
+2017-03-24 11:16:49,529 [10100] INFO  DevSocketServer - Session: 9ae92033-186e-4419-8d99-a1705e3ed091/223.104.254.76:59355
+A new session connected!
+2017-03-24 11:18:44,233 [6904] INFO  DevSocketServer - Session: eeaf0ff3-5a9f-4ab7-892b-98b92bb7edf2/223.104.255.79:65219
+A new session connected!
+2017-03-24 11:18:50,438 [11836] INFO  DevSocketServer - Session: 9ae92033-186e-4419-8d99-a1705e3ed091/223.104.254.76:59355
+This session was closed for ServerClosing!
+2017-03-24 11:20:50,211 [6904] INFO  DevSocketServer - Session: 5b7bff6d-c269-4a69-aa6e-d2926e0f9bf0/223.104.254.76:59375
+A new session connected!
+2017-03-24 11:20:52,907 [5756] INFO  DevSocketServer - Session: eeaf0ff3-5a9f-4ab7-892b-98b92bb7edf2/223.104.255.79:65219
+This session was closed for ServerClosing!
+2017-03-24 11:30:22,826 [6396] INFO  DevSocketServer - Session: 5b7bff6d-c269-4a69-aa6e-d2926e0f9bf0/223.104.254.76:59375
+The session will be closed for 327.9437573 timeout, the session start time: 2017/3/24 11:20:50, last active time: 2017/3/24 11:24:54!
+2017-03-24 11:30:22,826 [10092] INFO  DevSocketServer - Session: 5b7bff6d-c269-4a69-aa6e-d2926e0f9bf0/223.104.254.76:59375
+This session was closed for TimeOut!

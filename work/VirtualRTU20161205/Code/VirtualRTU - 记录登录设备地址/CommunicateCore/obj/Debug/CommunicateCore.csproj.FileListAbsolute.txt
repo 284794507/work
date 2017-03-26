@@ -1,0 +1,12 @@
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\CommunicateCore\bin\Debug\CommunicateCore.dll
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\CommunicateCore\bin\Debug\CommunicateCore.pdb
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\CommunicateCore\bin\Debug\Newtonsoft.Json.dll
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\CommunicateCore\obj\Debug\CommunicateCore.dll
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\CommunicateCore\obj\Debug\CommunicateCore.pdb
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\CommunicateCore\obj\Debug\CommunicateCore.csprojResolveAssemblyReference.cache
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\CommunicateCore\bin\Debug\CommunicateCore.dll
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\CommunicateCore\bin\Debug\CommunicateCore.pdb
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\CommunicateCore\bin\Debug\Newtonsoft.Json.dll
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\CommunicateCore\obj\Debug\CommunicateCore.dll
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\CommunicateCore\obj\Debug\CommunicateCore.pdb
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\CommunicateCore\obj\Debug\CommunicateCore.csprojResolveAssemblyReference.cache

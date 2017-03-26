@@ -1,0 +1,7 @@
+E:\Code\Distributor-PuDong\VirtualTerminal\Communication_Core\bin\Debug\Communication_Core.dll
+E:\Code\Distributor-PuDong\VirtualTerminal\Communication_Core\bin\Debug\Communication_Core.pdb
+E:\Code\Distributor-PuDong\VirtualTerminal\Communication_Core\bin\Debug\System.Database.dll
+E:\Code\Distributor-PuDong\VirtualTerminal\Communication_Core\bin\Debug\System.Database.xml
+E:\Code\Distributor-PuDong\VirtualTerminal\Communication_Core\obj\Debug\Communication_Core.dll
+E:\Code\Distributor-PuDong\VirtualTerminal\Communication_Core\obj\Debug\Communication_Core.pdb
+E:\Code\Distributor-PuDong\VirtualTerminal\Communication_Core\obj\Debug\Communication_Core.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+﻿正在安装程序集“E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\LampCensus.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\LampCensus.exe
+   logfile = E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\LampCensus.InstallLog
+正在安装服务 LampCensusService...
+已成功安装服务 LampCensusService。
+正在日志 Application 中创建 EventLog 源 LampCensusService...
+正在提交程序集“E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\LampCensus.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\LampCensus.exe
+   logfile = E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\LampCensus.InstallLog

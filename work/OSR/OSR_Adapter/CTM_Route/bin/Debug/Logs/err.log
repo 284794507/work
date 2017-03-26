@@ -1,0 +1,8 @@
+﻿2017-03-24 09:25:38,570 [10304] ERROR DevSocketServer - Listener (0.0.0.0:52452) error: 远程主机强迫关闭了一个现有的连接。
+System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+2017-03-24 09:25:58,990 [10304] ERROR DevSocketServer - Listener (0.0.0.0:52452) error: 远程主机强迫关闭了一个现有的连接。
+System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+2017-03-24 10:07:00,303 [9764] ERROR DevSocketServer - Listener (0.0.0.0:52452) error: 远程主机强迫关闭了一个现有的连接。
+System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+2017-03-24 10:24:38,247 [4396] ERROR DevSocketServer - Listener (0.0.0.0:52452) error: 远程主机强迫关闭了一个现有的连接。
+System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。

@@ -1,0 +1,10 @@
+E:\Code\PeopleSquare\PassengerFlowServer\PassengerFlowServer\bin\Debug\PassengerFlowServer.exe.config
+E:\Code\PeopleSquare\PassengerFlowServer\PassengerFlowServer\bin\Debug\PassengerFlowServer.exe
+E:\Code\PeopleSquare\PassengerFlowServer\PassengerFlowServer\bin\Debug\PassengerFlowServer.pdb
+E:\Code\PeopleSquare\PassengerFlowServer\PassengerFlowServer\bin\Debug\System.Database.dll
+E:\Code\PeopleSquare\PassengerFlowServer\PassengerFlowServer\bin\Debug\System.Database.xml
+E:\Code\PeopleSquare\PassengerFlowServer\PassengerFlowServer\obj\Debug\PassengerFlowServer.csprojResolveAssemblyReference.cache
+E:\Code\PeopleSquare\PassengerFlowServer\PassengerFlowServer\obj\Debug\PassengerFlowServer.exe
+E:\Code\PeopleSquare\PassengerFlowServer\PassengerFlowServer\obj\Debug\PassengerFlowServer.pdb
+E:\Code\PeopleSquare\PassengerFlowServer\PassengerFlowServer\obj\Debug\PassengerFlowServer.ProjectInstaller.resources
+E:\Code\PeopleSquare\PassengerFlowServer\PassengerFlowServer\obj\Debug\PassengerFlowServer.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\bin\Release\Utility.dll
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\bin\Release\Utility.pdb
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\bin\Release\System.Database.dll
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\bin\Release\System.Database.xml
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\obj\Release\Utility.dll
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\obj\Release\Utility.pdb
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\bin\Release\SuperSocket.Common.dll
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\bin\Release\SuperSocket.SocketBase.dll
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\bin\Release\log4net.dll
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\bin\Release\SuperSocket.Common.pdb
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\bin\Release\SuperSocket.Common.xml
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\bin\Release\SuperSocket.SocketBase.pdb
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\bin\Release\SuperSocket.SocketBase.xml
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\bin\Release\SuperSocket.Facility.dll
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\bin\Release\SuperSocket.Facility.pdb
+E:\Code\PeopleSquare\PassengerFlowAdapter\Utility\bin\Release\SuperSocket.Facility.xml

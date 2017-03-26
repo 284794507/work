@@ -1,0 +1,17 @@
+E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\LampCensus.exe.config
+E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\LampCensus.exe
+E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\LampCensus.pdb
+E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\Newtonsoft.Json.dll
+E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\System.Database.dll
+E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\System.Net.Http.Formatting.dll
+E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\System.Web.Http.dll
+E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\System.Web.Http.SelfHost.dll
+E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\Newtonsoft.Json.xml
+E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\System.Database.xml
+E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\System.Net.Http.Formatting.xml
+E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\System.Web.Http.xml
+E:\Code\songjiangLampApp\LampCensus\LampCensus\bin\Release\System.Web.Http.SelfHost.xml
+E:\Code\songjiangLampApp\LampCensus\LampCensus\obj\Release\LampCensus.ProjectInstaller.resources
+E:\Code\songjiangLampApp\LampCensus\LampCensus\obj\Release\LampCensus.csproj.GenerateResource.Cache
+E:\Code\songjiangLampApp\LampCensus\LampCensus\obj\Release\LampCensus.exe
+E:\Code\songjiangLampApp\LampCensus\LampCensus\obj\Release\LampCensus.pdb

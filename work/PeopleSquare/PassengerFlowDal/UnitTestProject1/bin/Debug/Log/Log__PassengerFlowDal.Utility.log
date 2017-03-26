@@ -1,0 +1,6 @@
+﻿2017-03-09 15:12:00,185 [ERROR] PassengerFlowDal.Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\Utility\Share.cs:42:21 未将对象引用设置到对象的实例。
+2017-03-09 15:13:24,560 [ERROR] PassengerFlowDal.Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\Utility\Share.cs:42:21 没有从 DbType UInt32 到已知 SqlDbType 的映射。
+2017-03-16 16:43:58,615 [ERROR] PassengerFlowDal.Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\Utility\Share.cs:42:21 必须声明标量变量 "@areaname"。
+')' 附近有语法错误。
+2017-03-16 16:44:22,710 [ERROR] PassengerFlowDal.Utility.Share:WriteLog::E:\Code\PeopleSquare\PassengerFlowDal\PassengerFlowDal\Utility\Share.cs:42:21 必须声明标量变量 "@areaname"。
+')' 附近有语法错误。

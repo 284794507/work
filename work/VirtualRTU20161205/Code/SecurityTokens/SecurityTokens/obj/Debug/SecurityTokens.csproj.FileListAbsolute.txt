@@ -1,0 +1,9 @@
+E:\Code\VirtualRTU20161205\Code\SecurityTokens\SecurityTokens\bin\Debug\SecurityTokens.exe.config
+E:\Code\VirtualRTU20161205\Code\SecurityTokens\SecurityTokens\bin\Debug\SecurityTokens.exe
+E:\Code\VirtualRTU20161205\Code\SecurityTokens\SecurityTokens\bin\Debug\SecurityTokens.pdb
+E:\Code\VirtualRTU20161205\Code\SecurityTokens\SecurityTokens\obj\Debug\SecurityTokens.FrmAlterKey.resources
+E:\Code\VirtualRTU20161205\Code\SecurityTokens\SecurityTokens\obj\Debug\SecurityTokens.FrmMain.resources
+E:\Code\VirtualRTU20161205\Code\SecurityTokens\SecurityTokens\obj\Debug\SecurityTokens.Properties.Resources.resources
+E:\Code\VirtualRTU20161205\Code\SecurityTokens\SecurityTokens\obj\Debug\SecurityTokens.csproj.GenerateResource.Cache
+E:\Code\VirtualRTU20161205\Code\SecurityTokens\SecurityTokens\obj\Debug\SecurityTokens.exe
+E:\Code\VirtualRTU20161205\Code\SecurityTokens\SecurityTokens\obj\Debug\SecurityTokens.pdb

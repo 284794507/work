@@ -1,0 +1,16 @@
+E:\Code\OSRLamp\OSRLamp\bin\Debug\OSRLamp.exe.config
+E:\Code\OSRLamp\OSRLamp\obj\Debug\OSRLamp.csprojResolveAssemblyReference.cache
+E:\Code\OSRLamp\OSRLamp\bin\Debug\OSRLamp.exe
+E:\Code\OSRLamp\OSRLamp\bin\Debug\OSRLamp.pdb
+E:\Code\OSRLamp\OSRLamp\bin\Debug\System.Database.dll
+E:\Code\OSRLamp\OSRLamp\bin\Debug\System.Database.xml
+E:\Code\OSRLamp\OSRLamp\obj\Debug\OSRLamp.exe
+E:\Code\OSRLamp\OSRLamp\obj\Debug\OSRLamp.pdb
+E:\Code\OSR\OSRLamp\OSRLamp\bin\Debug\OSRLamp.exe.config
+E:\Code\OSR\OSRLamp\OSRLamp\obj\Debug\OSRLamp.exe
+E:\Code\OSR\OSRLamp\OSRLamp\obj\Debug\OSRLamp.pdb
+E:\Code\OSR\OSRLamp\OSRLamp\bin\Debug\OSRLamp.exe
+E:\Code\OSR\OSRLamp\OSRLamp\bin\Debug\OSRLamp.pdb
+E:\Code\OSR\OSRLamp\OSRLamp\bin\Debug\System.Database.dll
+E:\Code\OSR\OSRLamp\OSRLamp\bin\Debug\System.Database.xml
+E:\Code\OSR\OSRLamp\OSRLamp\obj\Debug\OSRLamp.csprojResolveAssemblyReference.cache

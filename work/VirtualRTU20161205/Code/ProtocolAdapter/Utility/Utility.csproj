@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B8E7F248-B3D2-439A-9124-E4F36D9228DC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Utility</RootNamespace>
+    <AssemblyName>Utility</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\CityLMS_Using\LH.DotNet.Utilities\LH.DotNet.Newtonsoft.Json.Utilities\DLL\Net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AspectF.cs" />
+    <Compile Include="ByteHelper.cs" />
+    <Compile Include="Interface\IBrokerSvr.cs" />
+    <Compile Include="Interface\ITerminalSvr.cs" />
+    <Compile Include="JsonSerializeHelper.cs" />
+    <Compile Include="MessageLevel.cs" />
+    <Compile Include="MessageType.cs" />
+    <Compile Include="Model\AlarmInfo.cs" />
+    <Compile Include="Model\BrokerMessage.cs" />
+    <Compile Include="Model\DivPackagePara.cs" />
+    <Compile Include="Model\EthernetInterface.cs" />
+    <Compile Include="Model\NetWorkInfo.cs" />
+    <Compile Include="Model\NetWorkParamter.cs" />
+    <Compile Include="Model\QueryElecData.cs" />
+    <Compile Include="Model\LoginBackInfo.cs" />
+    <Compile Include="Model\LoginInfo.cs" />
+    <Compile Include="Model\RealTimeCtrlLamp.cs" />
+    <Compile Include="Model\SetTimeInfo.cs" />
+    <Compile Include="Model\TerminalBasicInfo.cs" />
+    <Compile Include="Model\UpgradeInfo.cs" />
+    <Compile Include="Model\YearTableInfo.cs" />
+    <Compile Include="PackageCmdWord\LFICmdWordConst.cs" />
+    <Compile Include="PackageErr.cs" />
+    <Compile Include="PackageHandler\LFIPackageHandler.cs" />
+    <Compile Include="PackageHelper.cs" />
+    <Compile Include="ProtocolType.cs" />
+    <Compile Include="SocketEventsArgs.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UtilityHelper.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

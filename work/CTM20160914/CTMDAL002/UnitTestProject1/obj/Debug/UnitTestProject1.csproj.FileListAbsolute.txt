@@ -1,0 +1,14 @@
+E:\Code\CTM20160914\CTMDAL002\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\Code\CTM20160914\CTMDAL002\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\Code\CTM20160914\CTMDAL002\UnitTestProject1\bin\Debug\CTMDAL.exe
+E:\Code\CTM20160914\CTMDAL002\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Code\CTM20160914\CTMDAL002\UnitTestProject1\bin\Debug\System.Database.dll
+E:\Code\CTM20160914\CTMDAL002\UnitTestProject1\bin\Debug\CTMDAL.pdb
+E:\Code\CTM20160914\CTMDAL002\UnitTestProject1\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Code\CTM20160914\CTMDAL002\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\Code\CTM20160914\CTMDAL002\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\Code\CTM20160914\CTMDAL002\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\Code\CTM20160914\CTMDAL002\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+E:\Code\CTM20160914\CTMDAL002\UnitTestProject1\bin\Debug\Dapper.dll
+E:\Code\CTM20160914\CTMDAL002\UnitTestProject1\bin\Debug\System.Database.xml
+E:\Code\CTM20160914\CTMDAL002\UnitTestProject1\bin\Debug\Dapper.xml

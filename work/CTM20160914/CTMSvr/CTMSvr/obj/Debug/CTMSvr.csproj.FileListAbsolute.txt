@@ -1,0 +1,2 @@
+E:\Code\CTM20160914\CTMSvr\CTMSvr\bin\Debug\CTMSvr.exe.config
+E:\Code\CTM20160914\CTMSvr\CTMSvr\obj\Debug\CTMSvr.csprojResolveAssemblyReference.cache

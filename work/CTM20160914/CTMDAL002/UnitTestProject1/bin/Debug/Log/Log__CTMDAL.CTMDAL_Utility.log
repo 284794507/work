@@ -1,0 +1,65 @@
+﻿2016-12-15 20:32:50,132 [ERROR] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:61:21 'a' 附近有语法错误。
+2016-12-16 17:31:12,338 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2016-12-16 17:31:12,607 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 节点数据更新成功！
+2016-12-16 17:31:12,636 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateDataRecRTM
+2016-12-16 17:31:12,637 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 InsertIntoBatchTask
+2016-12-16 17:31:12,696 [ERROR] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:61:21 将字符串转换为 uniqueidentifier 时失败。
+2016-12-16 17:33:01,521 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateDataRecRTM
+2016-12-16 17:37:55,001 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 InsertIntoBatchTask
+2016-12-16 17:38:00,775 [ERROR] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:61:21 将字符串转换为 uniqueidentifier 时失败。
+2016-12-16 17:38:21,712 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateDataRecRTM
+2016-12-16 17:39:05,836 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 InsertIntoBatchTask
+2016-12-16 17:43:55,332 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateDataRecRTM
+2016-12-16 17:44:00,171 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 InsertIntoBatchTask
+2016-12-16 17:44:13,154 [ERROR] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:61:21 无法识别的 GUID 格式。
+2016-12-16 17:44:34,057 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateDataRecRTM
+2016-12-16 17:44:39,890 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 InsertIntoBatchTask
+2016-12-16 17:45:32,533 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateDataRecRTM
+2016-12-16 17:45:39,019 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 InsertIntoBatchTask
+2016-12-16 17:49:42,894 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateDataRecRTM
+2016-12-16 17:49:46,315 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 InsertIntoBatchTask
+2016-12-16 17:49:54,922 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 电参数批次ID增加成功！
+2016-12-16 17:50:12,632 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 实时电参数更新成功！
+2016-12-21 18:10:11,684 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2016-12-21 18:10:11,803 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 节点数据更新成功！
+2016-12-21 18:10:11,817 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateDataRecRTM
+2016-12-21 18:10:11,818 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 InsertIntoBatchTask
+2016-12-21 18:10:22,361 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorMasterComm
+2016-12-21 18:10:22,486 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 GPRS通信时间及状态更新失败！
+2016-12-21 18:10:22,486 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 AddCollectorMasterCommHis
+2016-12-21 18:10:22,494 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 历史GPRS通信时间及状态插入失败！
+2016-12-21 18:10:40,850 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorMasterComm
+2017-01-03 19:34:44,945 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2017-01-03 19:34:45,079 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 节点数据更新成功！
+2017-01-03 19:34:45,092 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 GetNextUpgradeInfoByID
+2017-01-03 19:34:45,188 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateDataRecRTM
+2017-01-03 19:34:45,190 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 InsertIntoBatchTask
+2017-01-03 19:35:02,823 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 GetNextUpgradeInfoByID
+2017-01-03 19:35:31,567 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 GetNextUpgradeInfoByID
+2017-01-03 19:35:48,603 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 GetNextUpgradeInfoByID
+2017-02-22 15:48:48,126 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2017-02-22 15:49:37,122 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2017-02-22 15:50:33,736 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2017-02-22 15:53:03,299 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2017-02-22 15:53:39,705 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2017-02-22 15:54:26,635 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2017-02-22 15:55:44,793 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2017-02-22 15:56:55,894 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2017-02-22 15:57:24,150 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2017-02-22 15:57:30,011 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2017-03-13 17:13:28,312 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2017-03-13 17:13:28,702 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 节点数据更新成功！
+2017-03-13 17:13:28,716 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 GetNextUpgradeInfoByID
+2017-03-13 17:13:30,847 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateDataRecRTM
+2017-03-13 17:13:30,848 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 InsertIntoBatchTask
+2017-03-13 17:13:31,179 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 实时电参数更新成功！
+2017-03-13 17:14:15,847 [ERROR] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:61:21 必须声明标量变量 "@collctorid"。
+2017-03-16 18:01:36,089 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2017-03-16 18:01:36,191 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 节点数据更新成功！
+2017-03-16 18:01:36,193 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 GetNextUpgradeInfoByID
+2017-03-16 18:01:37,536 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateDataRecRTM
+2017-03-16 18:01:37,537 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 InsertIntoBatchTask
+2017-03-17 11:29:22,319 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 UpdateCollectorInfo
+2017-03-21 01:47:00,410 [ERROR] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:61:21 不能将值 NULL 插入列 'MeterCode'，表 'LMS_City_NEW.dbo.TPLCollectorAndMeter'；列不允许有 Null 值。INSERT 失败。
+语句已终止。
+2017-03-26 15:19:59,979 [INFO] CTMDAL.CTMDAL_Utility.UtilityShare:WriteLog::E:\Code\CTM20160914\CTMDAL002\CTMDAL\Utility\UtilityShare.cs:55:21 GetCollectorInfo

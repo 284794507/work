@@ -1,0 +1,127 @@
+﻿2017-03-24 09:11:20,458 [9060] DEBUG DefaultBootstrap - The server instance DevSocketServer has been created!
+2017-03-24 09:11:20,488 [9060] DEBUG DevSocketServer - The command CTM(CTM_Route_DevSocket.Command.CTMProtocol, CTM_Route_DevSocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 09:11:20,497 [9060] DEBUG DefaultBootstrap - The server instance DevSocketServer has been initialized!
+2017-03-24 09:11:20,499 [9060] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been created!
+2017-03-24 09:11:20,500 [9060] DEBUG AnalySocketServer - The command CTM(CTM_Route_AnalySocket.Command.CTMProtocol, CTM_Route_AnalySocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 09:11:20,500 [9060] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been initialized!
+2017-03-24 09:11:22,363 [9060] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-03-24 09:11:22,363 [9060] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-03-24 09:11:22,375 [9060] DEBUG DevSocketServer - Listener (0.0.0.0:52452) was started
+2017-03-24 09:11:22,378 [9060] DEBUG AnalySocketServer - Listener (0.0.0.0:60210) was started
+2017-03-24 09:11:22,380 [9060] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-03-24 09:19:34,583 [10812] DEBUG DefaultBootstrap - The server instance DevSocketServer has been created!
+2017-03-24 09:19:34,611 [10812] DEBUG DevSocketServer - The command CTM(CTM_Route_DevSocket.Command.CTMProtocol, CTM_Route_DevSocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 09:19:34,621 [10812] DEBUG DefaultBootstrap - The server instance DevSocketServer has been initialized!
+2017-03-24 09:19:34,623 [10812] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been created!
+2017-03-24 09:19:34,624 [10812] DEBUG AnalySocketServer - The command CTM(CTM_Route_AnalySocket.Command.CTMProtocol, CTM_Route_AnalySocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 09:19:34,624 [10812] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been initialized!
+2017-03-24 09:19:36,378 [10812] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-03-24 09:19:36,378 [10812] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-03-24 09:19:36,391 [10812] DEBUG DevSocketServer - Listener (0.0.0.0:52452) was started
+2017-03-24 09:19:36,394 [10812] DEBUG AnalySocketServer - Listener (0.0.0.0:60210) was started
+2017-03-24 09:19:36,396 [10812] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-03-24 09:25:13,150 [10856] DEBUG DefaultBootstrap - The server instance DevSocketServer has been created!
+2017-03-24 09:25:13,180 [10856] DEBUG DevSocketServer - The command CTM(CTM_Route_DevSocket.Command.CTMProtocol, CTM_Route_DevSocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 09:25:13,190 [10856] DEBUG DefaultBootstrap - The server instance DevSocketServer has been initialized!
+2017-03-24 09:25:13,192 [10856] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been created!
+2017-03-24 09:25:13,193 [10856] DEBUG AnalySocketServer - The command CTM(CTM_Route_AnalySocket.Command.CTMProtocol, CTM_Route_AnalySocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 09:25:13,193 [10856] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been initialized!
+2017-03-24 09:25:14,729 [10856] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-03-24 09:25:14,729 [10856] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-03-24 09:25:14,742 [10856] DEBUG DevSocketServer - Listener (0.0.0.0:52452) was started
+2017-03-24 09:25:14,745 [10856] DEBUG AnalySocketServer - Listener (0.0.0.0:60210) was started
+2017-03-24 09:25:14,747 [10856] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-03-24 09:28:35,420 [9640] DEBUG DefaultBootstrap - The server instance DevSocketServer has been created!
+2017-03-24 09:28:35,450 [9640] DEBUG DevSocketServer - The command CTM(CTM_Route_DevSocket.Command.CTMProtocol, CTM_Route_DevSocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 09:28:35,460 [9640] DEBUG DefaultBootstrap - The server instance DevSocketServer has been initialized!
+2017-03-24 09:28:35,461 [9640] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been created!
+2017-03-24 09:28:35,462 [9640] DEBUG AnalySocketServer - The command CTM(CTM_Route_AnalySocket.Command.CTMProtocol, CTM_Route_AnalySocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 09:28:35,463 [9640] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been initialized!
+2017-03-24 09:28:37,006 [9640] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-03-24 09:28:37,006 [9640] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-03-24 09:28:37,018 [9640] DEBUG DevSocketServer - Listener (0.0.0.0:52452) was started
+2017-03-24 09:28:37,021 [9640] DEBUG AnalySocketServer - Listener (0.0.0.0:60210) was started
+2017-03-24 09:28:37,023 [9640] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-03-24 09:31:44,234 [9640] DEBUG DevSocketServer - Listener (0.0.0.0:52452) was stoppped
+2017-03-24 09:31:44,235 [9640] DEBUG AnalySocketServer - Listener (0.0.0.0:60210) was stoppped
+2017-03-24 09:31:44,236 [9640] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
+2017-03-24 09:31:53,345 [9384] DEBUG DefaultBootstrap - The server instance DevSocketServer has been created!
+2017-03-24 09:31:53,374 [9384] DEBUG DevSocketServer - The command CTM(CTM_Route_DevSocket.Command.CTMProtocol, CTM_Route_DevSocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 09:31:53,384 [9384] DEBUG DefaultBootstrap - The server instance DevSocketServer has been initialized!
+2017-03-24 09:31:53,386 [9384] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been created!
+2017-03-24 09:31:53,387 [9384] DEBUG AnalySocketServer - The command CTM(CTM_Route_AnalySocket.Command.CTMProtocol, CTM_Route_AnalySocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 09:31:53,388 [9384] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been initialized!
+2017-03-24 09:31:55,062 [9384] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-03-24 09:31:55,062 [9384] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-03-24 09:31:55,074 [9384] DEBUG DevSocketServer - Listener (0.0.0.0:52452) was started
+2017-03-24 09:31:55,077 [9384] DEBUG AnalySocketServer - Listener (0.0.0.0:60210) was started
+2017-03-24 09:31:55,079 [9384] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-03-24 09:45:47,226 [8248] DEBUG DefaultBootstrap - The server instance DevSocketServer has been created!
+2017-03-24 09:45:47,255 [8248] DEBUG DevSocketServer - The command CTM(CTM_Route_DevSocket.Command.CTMProtocol, CTM_Route_DevSocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 09:45:47,265 [8248] DEBUG DefaultBootstrap - The server instance DevSocketServer has been initialized!
+2017-03-24 09:45:47,267 [8248] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been created!
+2017-03-24 09:45:47,268 [8248] DEBUG AnalySocketServer - The command CTM(CTM_Route_AnalySocket.Command.CTMProtocol, CTM_Route_AnalySocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 09:45:47,268 [8248] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been initialized!
+2017-03-24 09:45:48,939 [8248] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-03-24 09:45:48,939 [8248] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-03-24 09:45:48,951 [8248] DEBUG DevSocketServer - Listener (0.0.0.0:52452) was started
+2017-03-24 09:45:48,954 [8248] DEBUG AnalySocketServer - Listener (0.0.0.0:60210) was started
+2017-03-24 09:45:48,956 [8248] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-03-24 09:47:54,326 [11980] DEBUG DefaultBootstrap - The server instance DevSocketServer has been created!
+2017-03-24 09:47:54,355 [11980] DEBUG DevSocketServer - The command CTM(CTM_Route_DevSocket.Command.CTMProtocol, CTM_Route_DevSocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 09:47:54,365 [11980] DEBUG DefaultBootstrap - The server instance DevSocketServer has been initialized!
+2017-03-24 09:47:54,366 [11980] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been created!
+2017-03-24 09:47:54,367 [11980] DEBUG AnalySocketServer - The command CTM(CTM_Route_AnalySocket.Command.CTMProtocol, CTM_Route_AnalySocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 09:47:54,368 [11980] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been initialized!
+2017-03-24 09:47:55,745 [11980] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-03-24 09:47:55,745 [11980] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-03-24 09:47:55,758 [11980] DEBUG DevSocketServer - Listener (0.0.0.0:52452) was started
+2017-03-24 09:47:55,760 [11980] DEBUG AnalySocketServer - Listener (0.0.0.0:60210) was started
+2017-03-24 09:47:55,763 [11980] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-03-24 10:03:52,644 [11980] DEBUG DevSocketServer - Listener (0.0.0.0:52452) was stoppped
+2017-03-24 10:03:52,644 [11980] DEBUG AnalySocketServer - Listener (0.0.0.0:60210) was stoppped
+2017-03-24 10:03:52,645 [11980] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
+2017-03-24 10:04:03,759 [10320] DEBUG DefaultBootstrap - The server instance DevSocketServer has been created!
+2017-03-24 10:04:03,789 [10320] DEBUG DevSocketServer - The command CTM(CTM_Route_DevSocket.Command.CTMProtocol, CTM_Route_DevSocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 10:04:03,799 [10320] DEBUG DefaultBootstrap - The server instance DevSocketServer has been initialized!
+2017-03-24 10:04:03,801 [10320] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been created!
+2017-03-24 10:04:03,802 [10320] DEBUG AnalySocketServer - The command CTM(CTM_Route_AnalySocket.Command.CTMProtocol, CTM_Route_AnalySocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 10:04:03,803 [10320] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been initialized!
+2017-03-24 10:04:05,553 [10320] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-03-24 10:04:05,554 [10320] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-03-24 10:04:05,567 [10320] DEBUG DevSocketServer - Listener (0.0.0.0:52452) was started
+2017-03-24 10:04:05,570 [10320] DEBUG AnalySocketServer - Listener (0.0.0.0:60210) was started
+2017-03-24 10:04:05,572 [10320] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-03-24 10:07:31,466 [14248] DEBUG DefaultBootstrap - The server instance DevSocketServer has been created!
+2017-03-24 10:07:31,496 [14248] DEBUG DevSocketServer - The command CTM(CTM_Route_DevSocket.Command.CTMProtocol, CTM_Route_DevSocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 10:07:31,505 [14248] DEBUG DefaultBootstrap - The server instance DevSocketServer has been initialized!
+2017-03-24 10:07:31,507 [14248] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been created!
+2017-03-24 10:07:31,508 [14248] DEBUG AnalySocketServer - The command CTM(CTM_Route_AnalySocket.Command.CTMProtocol, CTM_Route_AnalySocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 10:07:31,508 [14248] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been initialized!
+2017-03-24 10:07:33,445 [14248] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-03-24 10:07:33,445 [14248] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-03-24 10:07:33,457 [14248] DEBUG DevSocketServer - Listener (0.0.0.0:52452) was started
+2017-03-24 10:07:33,460 [14248] DEBUG AnalySocketServer - Listener (0.0.0.0:60210) was started
+2017-03-24 10:07:33,462 [14248] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-03-24 10:34:03,183 [10348] DEBUG DefaultBootstrap - The server instance DevSocketServer has been created!
+2017-03-24 10:34:03,212 [10348] DEBUG DevSocketServer - The command CTM(CTM_Route_DevSocket.Command.CTMProtocol, CTM_Route_DevSocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 10:34:03,222 [10348] DEBUG DefaultBootstrap - The server instance DevSocketServer has been initialized!
+2017-03-24 10:34:03,223 [10348] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been created!
+2017-03-24 10:34:03,224 [10348] DEBUG AnalySocketServer - The command CTM(CTM_Route_AnalySocket.Command.CTMProtocol, CTM_Route_AnalySocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 10:34:03,225 [10348] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been initialized!
+2017-03-24 10:34:05,012 [10348] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-03-24 10:34:05,012 [10348] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-03-24 10:34:05,025 [10348] DEBUG DevSocketServer - Listener (0.0.0.0:52452) was started
+2017-03-24 10:34:05,027 [10348] DEBUG AnalySocketServer - Listener (0.0.0.0:60210) was started
+2017-03-24 10:34:05,030 [10348] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-03-24 11:15:50,327 [12204] DEBUG DefaultBootstrap - The server instance DevSocketServer has been created!
+2017-03-24 11:15:50,355 [12204] DEBUG DevSocketServer - The command CTM(CTM_Route_DevSocket.Command.CTMProtocol, CTM_Route_DevSocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 11:15:50,366 [12204] DEBUG DefaultBootstrap - The server instance DevSocketServer has been initialized!
+2017-03-24 11:15:50,368 [12204] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been created!
+2017-03-24 11:15:50,369 [12204] DEBUG AnalySocketServer - The command CTM(CTM_Route_AnalySocket.Command.CTMProtocol, CTM_Route_AnalySocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-03-24 11:15:50,370 [12204] DEBUG DefaultBootstrap - The server instance AnalySocketServer has been initialized!
+2017-03-24 11:15:52,400 [12204] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-03-24 11:15:52,400 [12204] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-03-24 11:15:52,414 [12204] DEBUG DevSocketServer - Listener (0.0.0.0:52452) was started
+2017-03-24 11:15:52,417 [12204] DEBUG AnalySocketServer - Listener (0.0.0.0:60210) was started
+2017-03-24 11:15:52,420 [12204] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!

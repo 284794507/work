@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtocolAdapter", "ProtocolAdapter\ProtocolAdapter.csproj", "{DD1D174A-0E8B-4139-8226-F0FB6C24FA67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{B8E7F248-B3D2-439A-9124-E4F36D9228DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerminalSocket", "TerminalSocket\TerminalSocket.csproj", "{42B5C5D9-F651-4549-AA75-E96725B90C41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrokerSocket", "BrokerSocket\BrokerSocket.csproj", "{D60A0FA3-4FD2-4CAD-816C-7695B18548DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD1D174A-0E8B-4139-8226-F0FB6C24FA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1D174A-0E8B-4139-8226-F0FB6C24FA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1D174A-0E8B-4139-8226-F0FB6C24FA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1D174A-0E8B-4139-8226-F0FB6C24FA67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E7F248-B3D2-439A-9124-E4F36D9228DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E7F248-B3D2-439A-9124-E4F36D9228DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E7F248-B3D2-439A-9124-E4F36D9228DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E7F248-B3D2-439A-9124-E4F36D9228DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B5C5D9-F651-4549-AA75-E96725B90C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B5C5D9-F651-4549-AA75-E96725B90C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B5C5D9-F651-4549-AA75-E96725B90C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B5C5D9-F651-4549-AA75-E96725B90C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60A0FA3-4FD2-4CAD-816C-7695B18548DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60A0FA3-4FD2-4CAD-816C-7695B18548DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60A0FA3-4FD2-4CAD-816C-7695B18548DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60A0FA3-4FD2-4CAD-816C-7695B18548DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

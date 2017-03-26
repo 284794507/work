@@ -1,0 +1,26 @@
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\bin\Debug\VirtualRTU.exe.config
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\obj\Debug\VirtualRTU.csprojResolveAssemblyReference.cache
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\bin\Debug\VirtualRTU.exe
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\bin\Debug\VirtualRTU.pdb
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\bin\Debug\CommunicateCore.dll
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\bin\Debug\System.Database.dll
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\bin\Debug\Newtonsoft.Json.dll
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\bin\Debug\CommunicateCore.pdb
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\bin\Debug\System.Database.xml
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\obj\Debug\VirtualRTU.exe
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\obj\Debug\VirtualRTU.pdb
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\obj\Debug\VirtualRTU.ProjectInstaller.resources
+E:\Code\VirtualRTU20161205\Code\VirtualRTU\VirtualRTU\obj\Debug\VirtualRTU.csproj.GenerateResource.Cache
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\VirtualRTU\bin\Debug\VirtualRTU.exe.config
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\VirtualRTU\obj\Debug\VirtualRTU.exe
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\VirtualRTU\obj\Debug\VirtualRTU.pdb
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\VirtualRTU\bin\Debug\VirtualRTU.exe
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\VirtualRTU\bin\Debug\VirtualRTU.pdb
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\VirtualRTU\bin\Debug\CommunicateCore.dll
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\VirtualRTU\bin\Debug\System.Database.dll
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\VirtualRTU\bin\Debug\Newtonsoft.Json.dll
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\VirtualRTU\bin\Debug\CommunicateCore.pdb
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\VirtualRTU\bin\Debug\System.Database.xml
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\VirtualRTU\obj\Debug\VirtualRTU.csprojResolveAssemblyReference.cache
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\VirtualRTU\obj\Debug\VirtualRTU.ProjectInstaller.resources
+E:\Code\VirtualRTU20161205\Code\VirtualRTU - 记录登录设备地址\VirtualRTU\obj\Debug\VirtualRTU.csproj.GenerateResource.Cache

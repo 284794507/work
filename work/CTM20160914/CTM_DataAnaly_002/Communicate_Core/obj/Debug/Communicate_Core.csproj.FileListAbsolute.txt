@@ -1,0 +1,15 @@
+E:\Code\CTM20160914\CTM_DataAnaly_002\Communicate_Core\bin\Debug\Communicate_Core.dll
+E:\Code\CTM20160914\CTM_DataAnaly_002\Communicate_Core\bin\Debug\Communicate_Core.pdb
+E:\Code\CTM20160914\CTM_DataAnaly_002\Communicate_Core\bin\Debug\System.Database.dll
+E:\Code\CTM20160914\CTM_DataAnaly_002\Communicate_Core\bin\Debug\System.Database.xml
+E:\Code\CTM20160914\CTM_DataAnaly_002\Communicate_Core\obj\Debug\Communicate_Core.dll
+E:\Code\CTM20160914\CTM_DataAnaly_002\Communicate_Core\obj\Debug\Communicate_Core.pdb
+E:\Code\CTM20160914\CTM_DataAnaly_002\Communicate_Core\bin\Debug\Newtonsoft.Json.dll
+E:\Code\CTM20160914\CTM_DataAnaly_002\Communicate_Core\bin\Debug\System.Net.Http.Formatting.dll
+E:\Code\CTM20160914\CTM_DataAnaly_002\Communicate_Core\bin\Debug\System.Web.Http.dll
+E:\Code\CTM20160914\CTM_DataAnaly_002\Communicate_Core\bin\Debug\System.Web.Http.SelfHost.dll
+E:\Code\CTM20160914\CTM_DataAnaly_002\Communicate_Core\bin\Debug\Newtonsoft.Json.xml
+E:\Code\CTM20160914\CTM_DataAnaly_002\Communicate_Core\bin\Debug\System.Net.Http.Formatting.xml
+E:\Code\CTM20160914\CTM_DataAnaly_002\Communicate_Core\bin\Debug\System.Web.Http.xml
+E:\Code\CTM20160914\CTM_DataAnaly_002\Communicate_Core\bin\Debug\System.Web.Http.SelfHost.xml
+E:\Code\CTM20160914\CTM_DataAnaly_002\Communicate_Core\obj\Debug\Communicate_Core.csprojResolveAssemblyReference.cache

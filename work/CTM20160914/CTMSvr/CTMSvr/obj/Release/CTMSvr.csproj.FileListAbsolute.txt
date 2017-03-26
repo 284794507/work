@@ -1,0 +1,16 @@
+E:\Code\CTM20160914\CTMSvr\CTMSvr\bin\Release\CTMSvr.exe.config
+E:\Code\CTM20160914\CTMSvr\CTMSvr\bin\Release\CTMSvr.exe
+E:\Code\CTM20160914\CTMSvr\CTMSvr\bin\Release\CTMSvr.pdb
+E:\Code\CTM20160914\CTMSvr\CTMSvr\bin\Release\Newtonsoft.Json.dll
+E:\Code\CTM20160914\CTMSvr\CTMSvr\bin\Release\System.Database.dll
+E:\Code\CTM20160914\CTMSvr\CTMSvr\bin\Release\System.Net.Http.Formatting.dll
+E:\Code\CTM20160914\CTMSvr\CTMSvr\bin\Release\System.Web.Http.dll
+E:\Code\CTM20160914\CTMSvr\CTMSvr\bin\Release\System.Web.Http.SelfHost.dll
+E:\Code\CTM20160914\CTMSvr\CTMSvr\bin\Release\Newtonsoft.Json.xml
+E:\Code\CTM20160914\CTMSvr\CTMSvr\bin\Release\System.Database.xml
+E:\Code\CTM20160914\CTMSvr\CTMSvr\bin\Release\System.Net.Http.Formatting.xml
+E:\Code\CTM20160914\CTMSvr\CTMSvr\bin\Release\System.Web.Http.xml
+E:\Code\CTM20160914\CTMSvr\CTMSvr\bin\Release\System.Web.Http.SelfHost.xml
+E:\Code\CTM20160914\CTMSvr\CTMSvr\obj\Release\CTMSvr.exe
+E:\Code\CTM20160914\CTMSvr\CTMSvr\obj\Release\CTMSvr.pdb
+E:\Code\CTM20160914\CTMSvr\CTMSvr\obj\Release\CTMSvr.csprojResolveAssemblyReference.cache

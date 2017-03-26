@@ -1,0 +1,15 @@
+E:\Code\CTM20160914\CTMDAL002\CTMDAL\bin\Debug\CTMDAL.exe.config
+E:\Code\CTM20160914\CTMDAL002\CTMDAL\bin\Debug\CTMDAL.exe
+E:\Code\CTM20160914\CTMDAL002\CTMDAL\bin\Debug\CTMDAL.pdb
+E:\Code\CTM20160914\CTMDAL002\CTMDAL\bin\Debug\Dapper.dll
+E:\Code\CTM20160914\CTMDAL002\CTMDAL\bin\Debug\Newtonsoft.Json.dll
+E:\Code\CTM20160914\CTMDAL002\CTMDAL\bin\Debug\System.Database.dll
+E:\Code\CTM20160914\CTMDAL002\CTMDAL\bin\Debug\Dapper.xml
+E:\Code\CTM20160914\CTMDAL002\CTMDAL\bin\Debug\Newtonsoft.Json.pdb
+E:\Code\CTM20160914\CTMDAL002\CTMDAL\bin\Debug\Newtonsoft.Json.xml
+E:\Code\CTM20160914\CTMDAL002\CTMDAL\bin\Debug\System.Database.xml
+E:\Code\CTM20160914\CTMDAL002\CTMDAL\obj\Debug\CTMDAL.ProjectInstaller.resources
+E:\Code\CTM20160914\CTMDAL002\CTMDAL\obj\Debug\CTMDAL.csproj.GenerateResource.Cache
+E:\Code\CTM20160914\CTMDAL002\CTMDAL\obj\Debug\CTMDAL.exe
+E:\Code\CTM20160914\CTMDAL002\CTMDAL\obj\Debug\CTMDAL.pdb
+E:\Code\CTM20160914\CTMDAL002\CTMDAL\obj\Debug\CTMDAL.csprojResolveAssemblyReference.cache
