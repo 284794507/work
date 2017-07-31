@@ -1,0 +1,17 @@
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\bin\Release\FileDownloadServer.exe.config
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\bin\Release\FileDownloadServer.exe
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\bin\Release\FileDownloadServer.pdb
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\bin\Release\Newtonsoft.Json.dll
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\bin\Release\System.Net.Http.Formatting.dll
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\bin\Release\System.Web.Http.dll
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\bin\Release\System.Web.Http.SelfHost.dll
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\bin\Release\Newtonsoft.Json.xml
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\bin\Release\System.Net.Http.Formatting.xml
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\bin\Release\System.Web.Http.xml
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\bin\Release\System.Web.Http.SelfHost.xml
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\obj\Release\FileDownloadServer.ProjectInstaller.resources
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\obj\Release\FileDownloadServer.csproj.GenerateResource.Cache
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\obj\Release\FileDownloadServer.exe
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\obj\Release\FileDownloadServer.pdb
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\bin\Release\System.Database.dll
+E:\Code\c#\work\FileDownloadServer\FileDownloadServer\bin\Release\System.Database.xml
